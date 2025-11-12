@@ -1,0 +1,1281 @@
+RESPONSE ANALYSIS REPORT
+============================================================
+
+NEW REAL RESPONSES FROM EXISTING CONTACTS (6):
+----------------------------------------
+• glepioufle@laforet.com - Gwendal Pioufle (Laforêt France)
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 23 Oct 2025 15:04:48 +0200
+
+• r.chevallier@arthurimmo.com - Romain Chevallier (Arthurimmo.com France)
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 4 Nov 2025 11:06:11 +0000
+
+• glepioufle@laforet.com - Gwendal Pioufle (Laforêt France)
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 4 Nov 2025 15:18:28 +0100
+
+• prenucci@mandat2recherche.com - Peggy Renucci (MANDAT DE RECHERCHE)
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Wed, 5 Nov 2025 09:05:45 +0000
+
+• glepioufle@laforet.com - Gwendal Pioufle (Laforêt France)
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Fri, 7 Nov 2025 09:27:52 +0100
+
+• f.monteis@sully-immobilier.fr - François M. (Sully Immobilier)
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Wed, 12 Nov 2025 13:19:38 +0000
+
+NEW CONTACTS WHO RESPONDED (NOT IN CSV) (15):
+----------------------------------------
+• f.derothiacob@groupe-quartus.com
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Wed, 22 Oct 2025 07:23:24 +0000
+  ⚠️  Will be added to CSV automatically
+
+• r.fichepain@weadvisor.fr
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 23 Oct 2025 07:36:03 +0000
+  ⚠️  Will be added to CSV automatically
+
+• sebastien.gal@jacheteenespagne.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 23 Oct 2025 09:44:42 +0200
+  ⚠️  Will be added to CSV automatically
+
+• cleboutilly@orpi.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 23 Oct 2025 10:23:14 +0200
+  ⚠️  Will be added to CSV automatically
+
+• joannic@hardyimmobilier.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 23 Oct 2025 11:34:59 +0200
+  ⚠️  Will be added to CSV automatically
+
+• cleboutilly@orpi.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 23 Oct 2025 18:43:41 +0200
+  ⚠️  Will be added to CSV automatically
+
+• joannic@hardyimmobilier.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 28 Oct 2025 10:43:36 +0100
+  ⚠️  Will be added to CSV automatically
+
+• qar_aquarelia@antispam6.xefi.fr
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 28 Oct 2025 16:35:24 +0000 (UTC)
+  ⚠️  Will be added to CSV automatically
+
+• alaurin@collectionequinoxe.com
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 30 Oct 2025 17:52:37 +0000
+  ⚠️  Will be added to CSV automatically
+
+• joannic@hardyimmobilier.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 04 Nov 2025 11:03:12 +0100
+  ⚠️  Will be added to CSV automatically
+
+• joannic@hardyimmobilier.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 04 Nov 2025 13:13:17 +0100
+  ⚠️  Will be added to CSV automatically
+
+• gpr_groupe_confiance_immobilier@antispam.xefi.fr
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Tue, 4 Nov 2025 17:57:41 +0000 (UTC)
+  ⚠️  Will be added to CSV automatically
+
+• ridasiak@q1c1.fr
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Wed, 5 Nov 2025 17:15:21 +0000
+  ⚠️  Will be added to CSV automatically
+
+• ridasiak@q1c1.fr
+  📧 Subject: RE: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Thu, 6 Nov 2025 08:47:49 +0000
+  ⚠️  Will be added to CSV automatically
+
+• sebastien.gal@jacheteenespagne.com
+  📧 Subject: Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  📅 Date: Mon, 10 Nov 2025 10:00:26 +0100
+  ⚠️  Will be added to CSV automatically
+
+AUTOMATIC RESPONSES FILTERED (50):
+----------------------------------------
+• romain.colombet@groupe-arcade.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• f.le-mee@human-immobilier.fr - Congés Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• jerome.guebey@seinesaintdenishabitat.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• sophie.ledan@foncia.com - Réponse automatique : [EXTERNE] École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• hguillou@nexity.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• b.domer@edouarddenis.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• thierry.bancal@socobat-expertises.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• vincent.pegoraro@essor.group - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• pierre.guerin@perl.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• mlobosco@ketb.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• julien.depois@arpej.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• laurent.martinez@cdc-habitat.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• pauline.zerdoun@hdshabitat.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• jean-come.chardonnens@naef.ch - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• mlaplace@nacarat.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• knaamar@groupepetra.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• sdubois@brasswater.ca - Automatic reply: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• lmgallant@brasswater.ca - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• n.chabanaud@human-immobilier.fr - Absent jusqu'au 27 Octobre 2025 Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• b.dellapatrona@coffim.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• freecht@altarea.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• kathryn.bennett@cbre.com - Automatic reply: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• marc.de-la-fourniere@icade.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• arigot@nexity.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• jonathan@atrios-immobilier.fr - Absence Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• f.guerin@arthur-loyd.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• gbertrand@opacoise.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• alaurin@collectionequinoxe.com - Automatic reply: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• akeita@citya.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• karim.ladjadj@weinvest.fr - Absence pour salon professionnel et congés Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• contactagenceferme@stephaneplazaimmobilier.com - Automatic reply: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• c.okabando@exim.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• bbocquet@lamy-immobilier.fr - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• david.lefevre@guyhoquet.com - Réponse automatique : École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• k.gourlaouen@human-immobilier.fr - Congés Re: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+• microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@polytechnique.edu - Undeliverable: École Polytechnique - Projet de logiciel pour agences immobilières
+  🤖 Automatic response (filtered out)
+
+ALREADY MARKED AS RESPONDED (38):
+----------------------------------------
+• alexis.jeannot@terralia-immobilier.fr - Alexis Jeannot (Terralia Immobilier)
+  📝 Auto-marked from email response
+
+• antoine.dupont@weinvest.be - Antoine Dupont (We Invest Real Estate)
+  📝 Auto-marked from email response
+
+• arigot@nexity.fr - Rigot Arnaud (Nexity)
+  📝 Auto-marked from email response
+
+• b.domer@edouarddenis.fr - Benjamin Domer (Groupe Edouard Denis)
+  📝 Auto-marked from email response
+
+• c.pereira@synergi-syndic.com - Christian Pereira (LuxEmirates)
+  📝 Auto-marked from email response
+
+• emmanuel.padovani@icfhabitat.fr - Emmanuel Padovani (ICF HABITAT)
+  📝 Auto-marked from email response
+
+• f.guerin@arthur-loyd.com - Florent Guerin (Arthur Loyd Occitanie)
+  📝 Auto-marked from email response
+
+• f.le-mee@human-immobilier.fr - Frédéric Mée (Human Immobilier)
+  📝 Auto-marked from email response
+
+• f.sire@ing2k.com - François Sire (ING2K)
+  📝 Auto-marked from email response
+
+• freecht@altarea.com - Francois Reecht (ALTAREA)
+  📝 Auto-marked from email response
+
+• galves@orpi.com - Gaëtan Alves (ORPI)
+  📝 Auto-marked from email response
+
+• gbertrand@opacoise.fr - Guillaume Bertrand (OPAC de l'Oise)
+  📝 Auto-marked from email response
+
+• gcattin@lbdpgestion.fr - Guillaume Cattin (La Boutique du Patrimoine - Gestion)
+  📝 Auto-marked from email response
+
+• h.selzer@human-immobilier.fr - Hugo Selzer (Human Immobilier)
+  📝 Auto-marked from email response
+
+• henriette.trautmann@mcmakler.de - Henriette Trautmann (McMakler)
+  📝 Auto-marked from email response
+
+• hguillou@nexity.fr - Guillou Hervé (Nexity)
+  📝 Auto-marked from email response
+
+• jean-come.chardonnens@naef.ch - Jean-Come Chardonnens (Naef Immobilier)
+  📝 Auto-marked from email response
+
+• jerome.guebey@seinesaintdenishabitat.fr - Jerome Guebey (Seine-Saint-Denis habitat)
+  📝 Auto-marked from email response
+
+• jonathan@atrios-immobilier.fr - Jonathan Gérard (ATRIOS Immobilier)
+  📝 Auto-marked from email response
+
+• julien.depois@arpej.fr - Julien Depois (Arpej)
+  📝 Auto-marked from email response
+
+• kathryn.bennett@cbre.com - Kathryn Bennett (CBRE UK)
+  📝 Auto-marked from email response
+
+• knaamar@groupepetra.com - Karim Naamar (Groupe Petra)
+  📝 Auto-marked from email response
+
+• laurent.devaux@klepierre.com - Laurent Devaux (KLEPIERRE)
+  📝 Auto-marked from email response
+
+• laurent.martinez@cdc-habitat.fr - Laurent Martinez (CDC Habitat)
+  📝 Auto-marked from email response
+
+• m.maynial@danielfeau.com - Martin Maynial (Daniel Féau Conseil Immobilier)
+  📝 Auto-marked from email response
+
+• marc.de-la-fourniere@icade.fr - Marc Fourniere (ICADE)
+  📝 Auto-marked from email response
+
+• mlaplace@nacarat.com - Manuel Laplace (Nacarat)
+  📝 Auto-marked from email response
+
+• mlobosco@ketb.com - Michele Lobosco (Kaufman and Broad)
+  📝 Auto-marked from email response
+
+• olivier.robin@for-immo.fr - Olivier Robin (FOR IMMO)
+  📝 Auto-marked from email response
+
+• pascal.riff@adriaimmo.fr - Pascal Riff (ADRIA Immobilier)
+  📝 Auto-marked from email response
+
+• pauline.zerdoun@hdshabitat.fr - Pauline Zerdoun (HAUTS-DE-SEINE HABITAT - OPH)
+  📝 Auto-marked from email response
+
+• pierre.guerin@perl.fr - Pierre Guerin (Perl)
+  📝 Auto-marked from email response
+
+• r.lefebvre@groupe-patrignani.com - Romain Lefebvre (Bouygues Immobilier)
+  📝 Auto-marked from email response
+
+• romain.colombet@groupe-arcade.com - Romain Colombet (GROUPE ARCADE-VYV)
+  📝 Auto-marked from email response
+
+• sdubois@brasswater.ca - Stephan Dubois (Brasswater)
+  📝 Auto-marked from email response
+
+• sophie.ledan@foncia.com - Sophie Ledan (FONCIA)
+  📝 Auto-marked from email response
+
+• thierry.bancal@socobat-expertises.com - Thierry Bancal (Socobat Expertises)
+  📝 Auto-marked from email response
+
+• vincent.pegoraro@essor.group - Vincent Pegoraro (Groupe Essor)
+  📝 Auto-marked from email response
+
+NO RESPONSE YET (905):
+----------------------------------------
+• a.ahier@realites.com - Alexandre Ahier (REALITES) - Status: contacted
+• a.ascoet@promogim.fr - Alister Ascoet (PROMOGIM) - Status: contacted
+• a.baron@human-immobilier.fr - Anthony Baron (Human Immobilier) - Status: contacted
+• a.capron@capronimmobilier.fr - Allan Capron (CAPRON IMMOBILIER) - Status: contacted
+• a.chaim@alila.fr - Azzedine Chaïm (ALILA) - Status: contacted
+• a.debono@nestenn.com - Anthony Debono (Nestenn Immobilier) - Status: contacted
+• a.dimaria@agence-dm.fr - Arnaud Maria (dm immobilier) - Status: contacted
+• a.frere@atrium-gestion.fr - Aurélien Frere (ATRIUM GESTION) - Status: contacted
+• a.guesdon@danielfeau.com - Aurelien Guesdon (Daniel Féau Conseil Immobilier) - Status: contacted
+• a.hazan@guyhoquet.com - Arié Hazan (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• a.journe@exelia.fr - Adrien Journé (Agences immobilières Exelia) - Status: contacted
+• a.lefevre@immobiliertoulousain.com - Anthony Lefèvre (L'immobilier Toulousain) - Status: contacted
+• a.leroy@fleuron-immobilier.fr - Alexandre Leroy (Fleuron Immobilier) - Status: contacted
+• a.mendes@arthur-loyd.com - Antonio Mendes (ARTHUR LOYD Belfort-Montbéliard) - Status: contacted
+• a.mierzejewski@promogim.fr - Antoine Mierzejewski (PROMOGIM) - Status: contacted
+• a.montet@human-immobilier.fr - Anthony Montet (Human Immobilier) - Status: contacted
+• a.oger@soquetimmobilier.com - Alain Oger (Soquet Immobilier) - Status: contacted
+• a.onghena@human-immobilier.fr - Alexis Onghena (Human Immobilier) - Status: contacted
+• a.pachaud@human-immobilier.fr - Anthony Pachaud (Human Immobilier) - Status: contacted
+• a.puissegur@deferla.com - Puisségur Aymeric (De Ferla Immobilier) - Status: contacted
+• a.rigal@human-immobilier.fr - Anthony Rigal (Human Immobilier) - Status: contacted
+• a.veronneau@bouygues-immobilier.com - Alexandre Veronneau (Bouygues Immobilier) - Status: contacted
+• aafournier@citya.com - A. A. (citya immobilier) - Status: contacted
+• aaouat@orpi.com - Arnaud Aouat (ORPI) - Status: contacted
+• aarmaganian@aquipierre.com - Anthony Armaganian (AQUIPIERRE) - Status: contacted
+• aaubry@mavimmo.com - Alexandre Aubry (Maville Immobilier) - Status: contacted
+• aazria@morissimmobilier.com - Arié Azria (Moriss Immobilier) - Status: contacted
+• ab@century21.fr - Beauvais Alain (CENTURY 21 Agence Gambetta) - Status: contacted
+• ablondel@stephaneplazaimmobilier.com - Anthony Blondel (Stéphane Plaza Immobilier) - Status: contacted
+• aboudy@stephaneplazaimmobilier.com - Alexandre Boudy (Stéphane Plaza Immobilier) - Status: contacted
+• aboulard@sixiemeavenue.com - Arnaud Boulard (Sixième Avenue) - Status: contacted
+• aboyance@stephaneplazaimmobilier.com - Axel Boyancé (Sixième Avenue) - Status: contacted
+• ac@laforet.com - Alain Chopinet (Laforêt France) - Status: contacted
+• acamus@stephaneplazaimmobilier.com - Aymeric Camus (Stéphane Plaza Immobilier) - Status: contacted
+• adrien.bauer@polyvalence-immobilier.fr - Adrien Bauer (Polyvalence) - Status: contacted
+• aduboy@parsyfineproperties.fr - Anthony Duboy (Parsy Fine Properties) - Status: contacted
+• agathe.koch@cdc-habitat.fr - Agathe Koch (CDC Habitat Sainte Barbe) - Status: contacted
+• agencewaymel@orpi.com - Julien Waymel (ORPI) - Status: contacted
+• agianoli@priams.fr - Alexandre Gianoli (PRIAMS) - Status: contacted
+• ahachemi@tagerim.fr - Amine Hachemi (TAGERIM PROMOTION) - Status: contacted
+• ahunault@nexity.fr - Alexandre Hunault (Nexity) - Status: contacted
+• ai@orpi.com - Agence Immobilière (ORPI) - Status: contacted
+• ajassawala@pinnacleliving.com - Ariez Jassawala (Cushman & Wakefield) - Status: contacted
+• akeita@citya.com - Alexandre Keita (citya immobilier) - Status: contacted
+• al@marais-sothebysrealty.com - Arnaud-P. L. (Paris Ouest Sotheby's International Realty) - Status: contacted
+• alain.chartois@123webimmo.com - Alain Chartois (123webimmo.com) - Status: contacted
+• alain.fournier@l-d.fr - Alain Fournier (Loiselet & Daigremont) - Status: contacted
+• aledaguenel@laforet.com - Arnaud Ledaguenel (Laforêt France) - Status: contacted
+• alefailler@stephaneplazaimmobilier.com - Anthony Failler (Stéphane Plaza Immobilier) - Status: contacted
+• alexandra@citya.com - Alexandra Cargnelli (citya immobilier) - Status: contacted
+• alexandre.capot@icade.fr - Alexandre Capot (ICADE) - Status: contacted
+• alexandre@orpi.com - Alexandre Deknudt (ORPI) - Status: contacted
+• alexis@citya.com - Alexis Gueret (citya immobilier) - Status: contacted
+• alix@citya.com - Alix Anne (citya immobilier) - Status: contacted
+• alosa@stephaneplazaimmobilier.com - Alfonso Losa (Stéphane Plaza Immobilier) - Status: contacted
+• amalard@francaiseimmo.fr - Alexandre Malard (LFI La Française Immobilière) - Status: contacted
+• amalka@laforet.com - Anton Malka (Laforêt Marly-le-Roi) - Status: contacted
+• amarquet@sldi-habitat.com - Anthony Marquet (SLDI Immobilier) - Status: contacted
+• amaury.chatout@vincennesetvous.fr - Amaury Chatout (Vincennes et Vous) - Status: contacted
+• amaury.quiblier@vinci-immobilier.com - Amaury Quiblier (VINCI Real Estate) - Status: contacted
+• amigda@laforet.com - Arnaut Migda (Laforêt immobilier Paris Nord-Est) - Status: contacted
+• andre.crete@pierreval.com - Andre Crete (GROUPE PIERREVAL) - Status: contacted
+• annemasse@stephaneplazaimmobilier.com - Stéphane Annemasse (Stéphane Plaza Immobilier) - Status: contacted
+• anthony.amouyal@century21.fr - Anthony Amouyal (Century 21 Rive Gauche) - Status: contacted
+• anthony.giovannai@engelvoelkers.com - Anthony Giovannai (Engel & Völkers France) - Status: contacted
+• anthony@deschamps-immo.com - Anthony Bobineau (SARL CABINET DESCHAMPS) - Status: contacted
+• antoine.b@erafrance.com - Antoine Busquet (ERA IMMOBILIER France) - Status: contacted
+• antoine.callec@bpimmo.com - Antoine Callec (Building Partners Group) - Status: contacted
+• antoine.vernier@squarehabitat.fr - Antoine Vernier (SQUARE HABITAT TOULOUSE 31) - Status: contacted
+• antonin@caumont-immo.fr - Antonin Caumont (Caumont Immobilier) - Status: contacted
+• antony.papin@sfhe.fr - Antony Papin (SFHE) - Status: contacted
+• arnaud.lenost@ajp-immobilier.fr - Arnaud Nost (AJP ACTEA La Hume - Gujan Mestras) - Status: contacted
+• arotondo@stephaneplazaimmobilier.com - Anthony Rotondo (Stéphane Plaza Immobilier) - Status: contacted
+• arthur@sagesseimmobiliere.com - Arthur Gnenaho (SCI SAGESSE IMMOBILIERE) - Status: contacted
+• asuau@ketb.com - Anthony Suau (Kaufman and Broad) - Status: contacted
+• asuaud@aiguillon.com - Antoine Suaud (Aiguillon construction) - Status: contacted
+• ataourirt@plainecommunehabitat.fr - Abdel Taourirt (Plaine Commune Habitat) - Status: contacted
+• atesquet@stephaneplazaimmobilier.com - Alexandre Tesquet (Stéphane Plaza Immobilier) - Status: contacted
+• avauthier@beelix.fr - Adrien Vauthier (Human Immobilier) - Status: contacted
+• avenirermont@orpi.com - Orpi Ermont (ORPI) - Status: contacted
+• axel.brouillard@ladresse.com - Axel Brouillard (L'ADRESSE immobilier) - Status: contacted
+• axel.courbon@immodefrance-cifv.fr - Axel Faye (IMMO de France - CIFV) - Status: contacted
+• azdine.ghanem@4gingenierie.com - Azdine Ghanem (4G Ingéniérie & Consulting) - Status: contacted
+• b.estay@human-immobilier.fr - Benoit Estay (Human Immobilier) - Status: contacted
+• b.martinez@hemerys-immobilier.com - Benjamin Martinez (SARL HEMERYS IMMOBILIER) - Status: contacted
+• b.pietralunga@ggl-groupe.com - Boris Pietralunga (GGL) - Status: contacted
+• baptiste@hore-immobilier.com - Baptiste C. (horé immobilier) - Status: contacted
+• baptistemartin@espace-sogim.fr - Baptiste Martin (SOGIM MENTON) - Status: contacted
+• bb@uniti-habitat.fr - Bruno Burato (UNITI Habitat) - Status: contacted
+• bbocquet@lamy-immobilier.fr - Bruno Bocquet (NEXITY LAMY) - Status: contacted
+• bbrzezinski@stephaneplazaimmobilier.com - Baptiste Brzezinski (Stéphane Plaza Immobilier) - Status: contacted
+• bdecazanove@laforet.com - Benoit De Cazanove (Laforêt Bagnolet & Romainville) - Status: contacted
+• bdurand@partenordhabitat.fr - Bastien Durand (PARTENORD HABITAT) - Status: contacted
+• bedjaoui@stephaneplazaimmobilier.com - Dalila Bedjaoui (Stéphane Plaza Immobilier) - Status: contacted
+• benjamin.cohen@engelvoelkers.com - Benjamin Cohen (Engel & Völkers France) - Status: contacted
+• benjamin.collal@foncia.com - Benjamin Collal (FONCIA) - Status: contacted
+• benjamin.q@pierreval.com - Benjamin Quere (GROUPE PIERREVAL) - Status: contacted
+• benjamin.waels@qualiconsult.fr - Benjamin Waels (Groupe Qualiconsult) - Status: contacted
+• benoit.poulpiquet@la-boite-immo.fr - Benoît Poulpiquet (La Bastide Immobilière) - Status: contacted
+• benoit@pichet.fr - Benoit Severyns (Groupe Pichet) - Status: contacted
+• bernard.ranc@laforet.com - Bernard Ranc (Laforêt France) - Status: contacted
+• bertrand@atlanthe.fr - Bertrand Glehen (ATLANTHE IMMOBILIER) - Status: contacted
+• bgay@sixiemeavenue.com - Benjamin Gay (Sixième Avenue - Montpellier Nord) - Status: contacted
+• bmarie@laforet.com - Bonnerave Marie (Laforêt France) - Status: contacted
+• bmichel@junot.fr - Benoit Michel (Maison Junot) - Status: contacted
+• bpigou@groupeduval.com - Benoit Pigou (ALAMO) - Status: contacted
+• bpitaval@lamy-immobilier.fr - Blandine Pitaval (Lamy) - Status: contacted
+• bplessis@stephaneplazaimmobilier.com - Benjamin Plessis (Stéphane Plaza Immobilier) - Status: contacted
+• bruno.anglo@ladresse.com - Bruno Anglo (L'Adresse Montgeron) - Status: contacted
+• bruno.gosp@cdc-habitat.fr - Bruno Gosp (CDC Habitat) - Status: contacted
+• bruno.jourdan@erafrance.com - Bruno Jourdan (ERA VOLTAIRE) - Status: contacted
+• bruno.riveron@vinci-immobilier.com - Bruno Riveron (VINCI Real Estate) - Status: contacted
+• bryan@human-location.fr - Bryan Vignard (Human Immobilier - Location) - Status: contacted
+• c.allart@human-immobilier.fr - Christophe Allart (Human Immobilier) - Status: contacted
+• c.claverie@human-immobilier.fr - Cédric Claverie (Human Immobilier) - Status: contacted
+• c.denepoux@human-immobilier.fr - Charline Denepoux (Human Immobilier) - Status: contacted
+• c.depond@bouygues-immobilier.com - Clément Depond (Bouygues Immobilier) - Status: contacted
+• c.devaux@human-immobilier.fr - Clement Devaux (Human Immobilier) - Status: contacted
+• c.eucher@chevalierdiag.fr - Clément Eucher (CHEVALIER DIAG) - Status: contacted
+• c.flanquart@human-immobilier.fr - Christian Flanquart (Human Immobilier) - Status: contacted
+• c.l@adim.fr - Christophe L. (ADIM Développement Immobilier) - Status: contacted
+• c.okabando@exim.fr - Cédric Okabando (EX'IM) - Status: contacted
+• c.petit@bouygues-immobilier.com - Charles Petit (Bouygues Immobilier) - Status: contacted
+• c.salva@laforet.com - Christopher Salva (Laforêt France) - Status: contacted
+• c.voyer@estuaire-immobilier.fr - Christophe Voyer (ESTUAIRE Immobilier) - Status: contacted
+• camille.bala@laref-immobilier.com - Camille Bala (La Ref' Immobilier) - Status: contacted
+• cap.serignan@capsud-immo.com - Cap Sérignan (CAP SUD IMMO) - Status: contacted
+• castres@stephaneplazaimmobilier.com - Stéphane Castres (Stéphane Plaza Immobilier) - Status: contacted
+• cbeulque@stephaneplazaimmobilier.com - Christophe Beulque (Stéphane Plaza Immobilier) - Status: contacted
+• cblandamour@groupe-launay.com - Célia Blandamour (Groupe Launay) - Status: contacted
+• cboulet@habitat44.org - Camille Boulet (HABITAT 44) - Status: contacted
+• ccarman@christelleclauss.com - Cemal Carman (Christelle CLAUSS Immobilier) - Status: contacted
+• cdegivry@citya.com - Camille Degivry (citya immobilier) - Status: contacted
+• cdeluca@stephaneplazaimmobilier.com - Clement Luca (Stéphane Plaza Immobilier) - Status: contacted
+• cedric.cognet@century21.fr - Cédric Cognet (CENTURY 21 BY OUEST) - Status: contacted
+• celine.belotti@immobilier.homes - Celine Belotti (BELOTTI IMMOBILIER) - Status: contacted
+• cfondjogoka@stephaneplazaimmobilier.com - Corneille Fondjo-Goka (Stéphane Plaza Marseille Centre) - Status: contacted
+• cgallon@stephaneplazaimmobilier.com - Christophe Gallon (Stéphane Plaza Immobilier) - Status: contacted
+• cgensollen@junot.fr - Charles Gensollen (Maison Junot) - Status: contacted
+• cgonnet@stephaneplazaimmobilier.com - Catherine Gonnet (Stéphane Plaza Immobilier) - Status: contacted
+• charles-henri.boubert@pulp-immobilier.fr - Charles-Henri Boubert (PULPIMO) - Status: contacted
+• charles-hubert.challain@ajp-immobilier.fr - Charles-Hubert Challain (AJP Immobilier France) - Status: contacted
+• charles.ferragu@lockroy.fr - Charles Ferragu (Groupe Lockroy) - Status: contacted
+• charles.guyot@erafrance.com - Charles Guyot (ERA Immobilier  A la Clef des Champs GIF SUR YVETTE (91190)) - Status: contacted
+• charles.loiselet@l-d.fr - Charles Loiselet (Loiselet & Daigremont) - Status: contacted
+• charles@rochat.immo - Charles Foucault-Lesage (LUXUR'ÎLE) - Status: contacted
+• chris@randw.com.au - Chris Downie (Richardson & Wrench) - Status: contacted
+• christelle.tavares@erafrance.com - Christelle Tavares (ERA IMMOBILIER France) - Status: contacted
+• christian.histe@habside.fr - Christian Histe (habside) - Status: contacted
+• christophe.boulin@citya.com - Christophe Boulin (citya immobilier) - Status: contacted
+• christophe.delcroix@vinci-immobilier.com - Christophe Delcroix (VINCI Real Estate) - Status: contacted
+• christophe.dumortier@guyhoquet.com - Christophe Dumortier (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• christophe.lebris@senioriales.com - Christophe Bris (Senioriales) - Status: contacted
+• christophe.pereira@essor.group - Christophe Pereira (Groupe Essor) - Status: contacted
+• christophe@coteparticuliers.com - Christophe Delsart (Côté Particuliers) - Status: contacted
+• claude.toscano@orpi.com - Claude Toscano (ROCH'IMMOBILIER) - Status: contacted
+• clea.eggenspiller@habitat25.fr - Cléa Eggenspiller (Habitat 25) - Status: contacted
+• clement.bonhomme@squarehabitat.fr - Clément Bonhomme (SQUARE HABITAT ATLANTIQUE VENDEE) - Status: contacted
+• clement.kaufmann@espaces-atypiques.com - Clément Kaufmann (Espaces Atypiques) - Status: contacted
+• clement@citya.com - Clément Géli (citya immobilier) - Status: contacted
+• clement@human-immobilier.fr - Clément Robert (Bourse de l'Immobilier) - Status: contacted
+• clement@orpi.com - Clément Sauvier (ORPI) - Status: contacted
+• cm@bnpparibas.com - Maxime Chaboud (BNP Paribas Real Estate) - Status: contacted
+• cmaiotti@groupe-launay.com - Carlo Maiotti (Groupe Launay) - Status: contacted
+• cmongin@plainecommunehabitat.fr - Christophe Mongin (Plaine Commune Habitat) - Status: contacted
+• colin.jacquet@brougham-immo.fr - Colin Jacquet (BROUGHAM IMMOBILIER CANNES) - Status: contacted
+• cordedda@bonaparte-promotion.fr - Valentin Cordedda (Bonaparte Promotion) - Status: contacted
+• corwin.hoel@quardina.fr - Corwin Hoël (Quardina) - Status: contacted
+• courbevoie@stephaneplazaimmobilier.com - Agence Courbevoie (Stéphane Plaza Immobilier) - Status: contacted
+• couvrieu@junot.fr - Christophe Ouvrieu (Maison Junot) - Status: contacted
+• cvie@stephaneplazaimmobilier.com - Clement Vie (Stéphane Plaza Immobilier) - Status: contacted
+• cw@sothebysrealty.co.uk - Cécile Windal (Sotheby's International Realty) - Status: contacted
+• cylia.oukaci@groupe3f.fr - Cylia Oukaci (Immobilière 3F) - Status: contacted
+• cyril.griveaux@foncia.com - Cyril Griveaux (FONCIA) - Status: contacted
+• cyril.premier@emilegarcin.com - Cyril Premier (EMILE GARCIN PROPRIETES) - Status: contacted
+• cyril@derichebourg-multiservices.com - Cyril Villot (DERICHEBOURG Multiservices) - Status: contacted
+• cyrille.metal@adoma.cdc-habitat.fr - Cyrille Metal (Adoma) - Status: contacted
+• d.babaev@deferla.com - David Babaev (De Ferla Immobilier) - Status: contacted
+• d.boucq@guyhoquet.com - Damien Boucq (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• d.colaco@human-immobilier.fr - David Colaço (Human Immobilier) - Status: contacted
+• d.deplante@halpades.fr - Daniel Deplante (Halpades) - Status: contacted
+• d.joly@siga.fr - Dominique Joly (SIGA IMMOBILIER) - Status: contacted
+• d.lambour@guyhoquet.com - Didier Lambour (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• d.proux@nestenn.com - Damien Proux (Nestenn Immobilier) - Status: contacted
+• d.roucher@adressepro.fr - Damien Roucher (AdressePRO) - Status: contacted
+• d.vivier@human-immobilier.fr - Dominique Vivier (Human Immobilier) - Status: contacted
+• da@ladresse.com - Alex Durant (L'ADRESSE immobilier) - Status: contacted
+• dailliez@erafrance.com - Théophile Dailliez (ERA IMMOBILIER France) - Status: contacted
+• dakyildiz@laforet.com - Dersim Akyildiz (Laforêt France) - Status: contacted
+• dalia.kuktiene@capital.lt - Dalia Kuktiene (Capital Team) - Status: contacted
+• damien.diter@agence-majorelle.com - Damien Diter (Molin Ei) - Status: contacted
+• damien.laget@lagetetassocies.com - Damien Laget (LAGET & Associés) - Status: contacted
+• damien.martin@espace-immobilier-45.com - Damien Martin (ESPACE IMMOBILIER) - Status: contacted
+• damien@thevot.immo - Damien Thevot (RE/MAX FOR YOU) - Status: contacted
+• damienduprat@dupratimmobilier.fr - Damien Duprat (DAMIEN DUPRAT IMMOBILIER) - Status: contacted
+• dan@royallepage.ca - Daniel Arsenault (Royal LePage Village) - Status: contacted
+• daniel.felicia@weinvest.be - Daniel Felicia (We Invest Real Estate) - Status: contacted
+• david.assenard@qualiconsult.fr - David Assenard (Groupe Qualiconsult) - Status: contacted
+• david.conas@ca-immobilier.fr - David Conas (CA Immobilier) - Status: contacted
+• david.kouadio@tech-way.com - David Kouadio (TECH-WAY SAS) - Status: contacted
+• david.lefevre@guyhoquet.com - David Lefevre (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• david@century21.com - David Ducret-Collet () - Status: contacted
+• david@voyages-besse.com - David Besse (Autocars Besse) - Status: contacted
+• dbaudrillard@laforet.com - Damien Baudrillard (Laforêt France) - Status: contacted
+• dbertin@coteparticuliers.com - Dylan Bertin (Côté Particuliers) - Status: contacted
+• dboissiere@sergic.com - David Boissiere (SERGIC) - Status: contacted
+• dboulounaud@orpi.com - David Boulounaud (ORPI) - Status: contacted
+• dboussemart@arthur-loyd-amiens.com - Damien Boussemart (ARTHUR LOYD AMIENS) - Status: contacted
+• dbuisson@laforet.com - Dominique Buisson (Laforêt France) - Status: contacted
+• dcagnard@laforet.com - Diego Cagnard (Laforêt Amiens) - Status: contacted
+• dcohenblonde@junot.fr - Déborah Blonde (Maison Junot) - Status: contacted
+• dcoutin@dpcimmobilier.com - David Coutin (DPC IMMOBILIER - L'agence des Amidonniers) - Status: contacted
+• delorme@ajp-immobilier.com - Arnaud Delorme (AJP Immobilier France) - Status: contacted
+• demory@abithea.fr - Jean Demory (Abithéa Béziers) - Status: contacted
+• dhanna@stephaneplazaimmobilier.com - Douglas Hanna (Stéphane Plaza Immobilier) - Status: contacted
+• dino.alexandre@guyhoquet.com - Alexandre Dino (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• dominique.peker@l-d.fr - Dominique Peker (Loiselet & Daigremont) - Status: contacted
+• donatiensix@six-immobilier.com - Donatien Six (SIX Immobilier) - Status: contacted
+• dprevost@sergic.com - Dominique Prevost (SERGIC) - Status: contacted
+• dsounillac@sixiemeavenue.com - Damien Sounillac (Sixième Avenue - Cahors & Figeac) - Status: contacted
+• dylan.buchoux@diagadom.com - Dylan Buchoux (Diagadom) - Status: contacted
+• e.bailly@cabinet-seiler.com - Emanuel Bailly (CABINET SEILER IMMOBILIER) - Status: contacted
+• e.boiraud@linkcity.com - Eric Boiraud (Linkcity) - Status: contacted
+• e.dedieuleveult@nestenn.com - Eric Dieuleveult (Nestenn Immobilier) - Status: contacted
+• e.denicourt@paris-housing.com - Eric Denicourt (Paris-Housing.com) - Status: contacted
+• e.faller@abc-immodiag.com - Eddy Faller (ABC IMMODIAG) - Status: contacted
+• e.maignan@human-immobilier.fr - Emmanuelle Maignan (Human Immobilier) - Status: contacted
+• e.tocanne@bourse-immobilier.fr - Elodie Tocanne (Human Immobilier) - Status: contacted
+• e.tourrucou@guyhoquet.com - Eric Tourrucou (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• edouard.bourouba@groupevalophis.fr - Édouard Bourouba (Groupe Valophis) - Status: contacted
+• efaure@citya.com - Emeric Faure (citya immobilier) - Status: contacted
+• effertz@effertz.be - Effertz Pierre (Century 21 Immo Effertz) - Status: contacted
+• el@arpej.fr - Emilie Lluch (Arpej) - Status: contacted
+• elecorre@theop.fr - Erwin Corre (THEOP) - Status: contacted
+• elopez@cime-immo.com - Eric Lopez (CIME Immobilier) - Status: contacted
+• emile.schmitt@erafrance.com - Emile Schmitt (🎯 ERA Section IMMOBILIER - l'agence de PAU) - Status: contacted
+• emilie.chretien@erilia.fr - Emilie Chrétien (Erilia SA) - Status: contacted
+• emilie.degrugillier@cdc-habitat.fr - Emilie Degrugillier (CDC Habitat) - Status: contacted
+• emmanuel.amoussou@century21.fr - Emmanuel Amoussou (CENTURY 21®) - Status: contacted
+• emmanuel.brun@immobilier38.com - Emmanuel Brun (AGENCE DES DAUPHINS) - Status: contacted
+• emmanuel.capuano@aquila.immo - Emmanuel Capuano (RE/MAX Aquila) - Status: contacted
+• emmanuel.clair@ca-immobilier.fr - Emmanuel Clair (CA Immobilier) - Status: contacted
+• emmanuel.gard@triumgroup.fr - Emmanuel Gard (Trium Group) - Status: contacted
+• eric-wojna@aiguillon-construction.fr - Eric Wojna (AIGUILLON IMMOBILIER) - Status: contacted
+• eric.gibeaux@icade.fr - Eric Gibeaux (ICADE) - Status: contacted
+• eric.le-huu-nho@qualiconsult.fr - Eric Le-Huu-Nho (QUALICONSULT SECURITE) - Status: contacted
+• eric.legon@cimalpes.com - Eric Legon (Cimalpes) - Status: contacted
+• eric.lorre@coteparticuliers.com - Eric Lorre (Côté Particuliers) - Status: contacted
+• eric.pacault@viagimmo.fr - Éric Viager (Viagimmo) - Status: contacted
+• eric.portrait@qualiconsult.fr - Eric Portrait (Groupe Qualiconsult) - Status: contacted
+• eric.trogoff@sogeprom.com - Eric Trogoff (SOGEPROM) - Status: contacted
+• ericaniakou@homepassionconcept.com - Éric Aniakou (Home Passion Concept Nanterre) - Status: contacted
+• erwan.loret@123webimmo.com - Erwan Loret (123webimmo.com) - Status: contacted
+• f.abderhalden@adhimmobilier.fr - Frédéric Halden (ADH IMMOBILIER) - Status: contacted
+• f.allemandet@nestenn.com - Franck Allemandet (Nestenn Immobilier) - Status: contacted
+• f.ansel@human-immobilier.fr - Francois Ansel (Human Immobilier) - Status: contacted
+• f.bourdiec@enterprise-immo.fr - Florent Bourdiec (ENTERPRISE Immobilier d'Entreprise) - Status: contacted
+• f.bozon@4807immobilier.fr - Franck Bozon (4807 Immobilier) - Status: contacted
+• f.dangkouban@king-immobilier.fr - Farhad Dangkouban (KING IMMOBILIER GROUP SAS) - Status: contacted
+• f.diril@arthurimmo.com - Frederic Diril (Arthurimmo.com France) - Status: contacted
+• f.jorge@lessentiel-immobilier.com - Frédéric Jorge (L'essentiel de l'immobilier) - Status: contacted
+• f.masset@gmimmo.be - Frédéric Masset (GM - Bureau immobilier) - Status: contacted
+• f.monteis@sully-immobilier.fr - François M. (Sully Immobilier) - Status: contacted
+• f.sauboua-suraud@human-immobilier.fr - Franck Sauboua-Suraud (Human Immobilier) - Status: contacted
+• f.schittekatte@trior.be - Fabien Schittekatte (TRIOR - L'immobilier bien conseillé) - Status: contacted
+• f.turbe@bouygues-immobilier.com - Frédéric Turbe (Bouygues Immobilier) - Status: contacted
+• fabien.besson@etic.co - Fabien Besson (ETIC - Foncièrement Responsable) - Status: contacted
+• fabien.fichet@mountaincollection.com - Fabien Fichet (Mountain Collection Immobilier) - Status: contacted
+• fabien.frenais@ajp-immobilier.fr - Fabien Frenais (AJP Immobilier France) - Status: contacted
+• fabien.pouzaud@groupe-cailleau.com - Fabien Pouzaud (Groupe Cailleau) - Status: contacted
+• fabien.queroy@cimm.com - Fabien Queroy (Cimm immobilier) - Status: contacted
+• fabien@citya.com - Fabien Bonnefoi (citya immobilier) - Status: contacted
+• fabrice.bounegab@dv-immo.com - Fabrice Bounegab (Groupe DV Immobilier) - Status: contacted
+• fabrice.ouvrard@ajp-immobilier.fr - Fabrice Ouvrard (AJP Immobilier France) - Status: contacted
+• fandreolety@performtransaction.fr - Fabien Andréoléty (Perform'Transaction) - Status: contacted
+• fares@vendezvotrebien.com - Fares Zlitni (VendezVotreBien.com) - Status: contacted
+• faurenty@stephaneplazaimmobilier.com - Fabrice Aurenty (Sixième Avenue) - Status: contacted
+• fberault@exia.fr - Fabrice Berault (EXIA) - Status: contacted
+• fdefert@laforet.com - Franz Defert (Laforêt Douai) - Status: contacted
+• fehmi.koumi@guyhoquet.com - Fehmi Koumi (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• fferrante@valority.com - Franck Ferrante (Valority) - Status: contacted
+• ffournier@orpi.com - Franck Fournier (Orpi Terrasson Immobilier) - Status: contacted
+• fgerablie@laforet.com - Frank Gerablie (Laforêt France) - Status: contacted
+• flegrand@custine-immobilier.fr - François Grand (CUSTINE IMMOBILIER) - Status: contacted
+• florent.billiere@aquitaine-gestion.com - Florent Billiere (SOCIETE AQUITAINE DE GESTION) - Status: contacted
+• florent.hurstel@colliers.com - Florent Hurstel (Colliers) - Status: contacted
+• florent.leblanc@squarehabitat.fr - Florent Leblanc (SQUARE HABITAT BRETAGNE) - Status: contacted
+• florian.herve@viagimmo.fr - Florian Herve (Café Viager - Viager & Nue-Propriété) - Status: contacted
+• florian@bellevilles.fr - Florian Gacoin (BELLEVILLES) - Status: contacted
+• fmartinache@stephaneplazaimmobilier.com - Frédéric Martinache (Stéphane Plaza Immobilier Paris 20 Gambetta) - Status: contacted
+• fp@la-bonne-agence.com - François Pierchon (La Bonne Agence) - Status: contacted
+• fparisi@laforet.com - Flavien Parisi (LAFORÊT) - Status: contacted
+• fpeillon@junot.fr - François Peillon (Maison Junot) - Status: contacted
+• france.drolet@cominar.com - France Drolet (Cominar) - Status: contacted
+• franck.canu@arthur-loyd.com - Franck Canu (Arthur Loyd Paris Ile-de-France) - Status: contacted
+• franck.godin@la-boite-immo.fr - Franck Godin (AGENCE LEMASSON CONSEIL) - Status: contacted
+• franck.tabouret@inli.fr - Franck Tabouret (in'li) - Status: contacted
+• francois.aygobere@century21.fr - François Aygobère (CENTURY 21 Lacroix Immobilier) - Status: contacted
+• francois.hamm@lamy-immobilier.fr - François Hamm (Lamy) - Status: contacted
+• francois@prestige-atlantique.fr - François Grollier (Prestige Atlantique - Agence Immobilière) - Status: contacted
+• frederic.bascherini@bnpparibas.com - Frederic Bascherini (BNP Paribas Real Estate) - Status: contacted
+• frederic.ehret@cm-activites-immo.fr - Frédéric Ehret (Crédit Mutuel Immobilier) - Status: contacted
+• frederic.escuredo@bnpparibas.com - Frederic Escuredo (BNP Paribas Real Estate) - Status: contacted
+• frederic.garault@cm-activites-immo.fr - Frédéric Garault (Crédit Mutuel Immobilier) - Status: contacted
+• frederic.lautrain@belinpromotion.com - Frederic Lautrain (Belin Promotion SA) - Status: contacted
+• frederic.lebegue@groupe-tolosan-immobilier.com - Frederic Lebegue (Groupe Tolosan Immobilier) - Status: contacted
+• frederic.luber@erafrance.com - Frédéric Luber (ERA IMMOBILIER France) - Status: contacted
+• frederic.vanini@qualiconsult.fr - Frédéric Vanini (Groupe Qualiconsult) - Status: contacted
+• frederic@citya.com - Frédéric L'Equilbec (citya immobilier) - Status: contacted
+• frederic@coprosud.fr - Frédéric Lambert (COPROSUD) - Status: contacted
+• frederic@vovardimmobilier.fr - Frederic Vovard (AGENCE VOVARD IMMOBILIER) - Status: contacted
+• frei@stephaneplazaimmobilier.com - Frédéric Rei (Stéphane Plaza Immobilier) - Status: contacted
+• g.ayala@consultantsimmobilier.com - Grégory Ayala (CONSULTANTS IMMOBILIER) - Status: contacted
+• g.caillon@coteparticuliers.com - Guillaume Caillon (Keymex Immobilier Bordeaux Rive Gauche) - Status: contacted
+• g.capitant@groupe-quartus.com - Guillaume Capitant (Bouygues Immobilier) - Status: contacted
+• g.defranssu@district-immo.com - Gonzague Recrutons (District Immobilier) - Status: contacted
+• g.duchateau@nestenn.com - Duchateau Grégory (Nestenn Immobilier) - Status: contacted
+• g.ersen@fredelion.com - Gilles Ersen (FREDēLION) - Status: contacted
+• g.jaquenod@2r-immobilier.fr - Guilhem J. (2R Immobilier) - Status: contacted
+• g.laneyrie@jcadb.org - Grégoire Laneyrie (Cabinet Jean CHARPENTIER SOPAGI S.A.S) - Status: contacted
+• g.moussy@human-immobilier.fr - Guillaume Moussy (Human Immobilier) - Status: contacted
+• g.pertusa@swixim.com - Gregory Pertusa (Swixim International) - Status: contacted
+• g.pons@ggl-groupe.com - Guilhem Pons (GGL) - Status: contacted
+• g.taba@nestenn.com - Grégory Taba (Nestenn Bouc-Bel-Air) - Status: contacted
+• g.thomas@orpi.com - Thomas Guerin (ORPI) - Status: contacted
+• gabriel.parienti@ladresse.com - Gabriel Parienti (L'ADRESSE PARIS EST - SCOOP IMMOBILIER) - Status: contacted
+• gad@parisluxeproperties.fr - Gad Fitoussi (Paris Luxe Properties) - Status: contacted
+• gael.chavret@guyhoquet.com - Gaël Chavret (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• gael.lagasserie@guyhoquet.com - Gaël Lagasserie (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• gaetan.debentzmann@lockroy.fr - Gaëtan Bentzmann (Groupe Lockroy) - Status: contacted
+• gaetan.dupas@groupearc.fr - Gaëtan Dupas (Groupe ARC) - Status: contacted
+• gautier.camille@ca-immobilier.fr - Camille Gautier (CA Immobilier) - Status: contacted
+• gautier.depuille@immodefrancehdf.com - Gautier Depuille (Immo de France Hauts-de-France) - Status: contacted
+• gbasile@ketb.com - Guillaume Basile (Kaufman and Broad) - Status: contacted
+• gbonil@stephaneplazaimmobilier.com - Gilles Bonil️ (l'Adresse Lattes - Agence et vous) - Status: contacted
+• gdebrondeau@laforet.com - Guillaume Brondeau (Laforêt Marseille 13) - Status: contacted
+• gdoux@ketb.com - Geoffrey Doux (Kaufman and Broad) - Status: contacted
+• gerald.venance@squarehabitat.fr - Gerald Venance (Square Habitat Touraine-Poitou) - Status: contacted
+• ggeoffrion@bearsimmo.com - Guillaume Geoffrion (BEARS IMMO) - Status: contacted
+• ggrivet@stephaneplazaimmobilier.com - Greg Grivet (SIXIEME AVENUE IMMOBILIER) - Status: contacted
+• gilles.cottin@namixis.com - Cottin Gilles (NAMIXIS - SSICOOR) - Status: contacted
+• gilles@gecko-immobilier.com - Gilles Le Moal (Gecko Immobilier) - Status: contacted
+• glepioufle@laforet.com - Gwendal Pioufle (Laforêt France) - Status: contacted
+• gregory.desbonnets@guyhoquet.com - Grégory Desbonnets (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• gregory.faye@cdc-habitat.fr - Grégory Faye (CDC Habitat) - Status: contacted
+• gregory.lary@la-boite-immo.fr - Grégory Lary (Cabinet Bonnenfant) - Status: contacted
+• grohmer@christelleclauss.com - Geoffrey Rohmer (Christelle CLAUSS Immobilier) - Status: contacted
+• guillaume.audran@ladresse.com - Guillaume Audran (L'ADRESSE immobilier) - Status: contacted
+• guillaume.binet@ladresse.com - Guillaume Binet (L'ADRESSE immobilier) - Status: contacted
+• guillaume.dupuis@vyv3.fr - Guillaume Dupuis (Nestenn Immobilier) - Status: contacted
+• guillaume.elvira@engelvoelkers.com - Guillaume Elvira (Engel & Völkers France) - Status: contacted
+• guillaume.lefranc@honorairesmoinschers.com - Guillaume Lefranc (Honoraires moins chers) - Status: contacted
+• guillaume@erafrance.com - Guillaume Lageon (ERA IMMOBILIER France) - Status: contacted
+• guillaume@guihome.immo - Jean-Guillaume Mathieu (JEAN-GUI'HOME IMMOBILIER) - Status: contacted
+• guillaume@orpi.com - Guillaume Giraud (ORPI) - Status: contacted
+• guillaume@parisautrement.com - Guillaume Kech (PARIS AUTREMENT) - Status: contacted
+• guy.seigneur@domaine.net - Guy Seigneur (CDC Habitat) - Status: contacted
+• h.bregeard@human-immobilier.fr - Hugo Bregeard (Human Immobilier) - Status: contacted
+• h.mesplede@guyhoquet.com - Hélène Mesplede (Guy Hoquet La Flotte en Ré) - Status: contacted
+• haider.mouhli@human-immobilier.fr - Haider Mouhli (Bourse de l'Immobilier) - Status: contacted
+• hakim.gares@grandlyonhabitat.fr - Hakim Gares (GrandLyon Habitat) - Status: contacted
+• helene.ducoudre@groupe3f.fr - Hélène Ducoudré (Immobilière 3F) - Status: contacted
+• herve.rousselle@qualiconsult.fr - Hervé Rousselle (Groupe Qualiconsult) - Status: contacted
+• herve@bienavectoit.fr - Hervé Lalot (Bien avec ToiT / Seth Immo) - Status: contacted
+• hkeller@christelleclauss.com - Hervé Keller (Christelle CLAUSS Immobilier) - Status: contacted
+• hl@guy-hoquet.com - Ludovic Herubert (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• htitou@stephaneplazaimmobilier.com - Hamada Titou (Stéphane Plaza Immobilier) - Status: contacted
+• i.kennouche@rhonehabitat.fr - Idir Kennouche (DEUX FLEUVES RHONE HABITAT) - Status: contacted
+• iarrouzi@laforet.com - Iwan Arrouzi (Laforêt France) - Status: contacted
+• idir.laifaoui@cbre.fr - Idir Laifaoui (CBRE France) - Status: contacted
+• ilker.vurmaz@welchome-immo.com - Ilker Vurmaz (Welc Home Immobilier) - Status: contacted
+• isabelle.yaghi@lmh.fr - Isabelle Yaghi (Lille Métropole Habitat) - Status: contacted
+• issa.thiandoume@icade.fr - Issa Thiandoume (ICADE) - Status: contacted
+• j.angelakoff@breteuilhomes.com - Julien Angelakoff (Breteuil) - Status: contacted
+• j.bellehigue@ascoreal.fr - Jérôme Bellehigue (AsCoRéal) - Status: contacted
+• j.blin@bouygues-immobilier.com - Jeanne Blin-De Chantérac (Bouygues Immobilier) - Status: contacted
+• j.carpentier@danielfeau.com - Jacques Carpentier (Daniel Féau Conseil Immobilier) - Status: contacted
+• j.caudevelle@linkcity.com - Joseph Caudevelle (Linkcity) - Status: contacted
+• j.claveau@guyhoquet.com - Jeremy Claveau (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• j.deiber@bouygues-immobilier.com - Julien Deiber (Bouygues Immobilier) - Status: contacted
+• j.dupuis@human-immobilier.fr - Julien Dupuis (Human Immobilier) - Status: contacted
+• j.figuer@logeal-immobiliere.fr - Jennifer Figuer (LOGÉAL IMMOBILIÈRE) - Status: contacted
+• j.gaillet@human-immobilier.fr - Julien Gaillet (Human Immobilier) - Status: contacted
+• j.helene@cabinethestia.immo - Joris Helene (Cabinet Hestia) - Status: contacted
+• j.herrouin@p2i.fr - Jacques Herrouin (P2i) - Status: contacted
+• j.kot@ggl-groupe.com - Jérémy Kot (GGL) - Status: contacted
+• j.le-bastard@human-location.fr - Julien Bastard (Human Immobilier - Location) - Status: contacted
+• j.le-goff@bourse-immobilier.fr - Jennifer Goff (Human Immobilier) - Status: contacted
+• j.lecoeuche@lamotte.fr - Julien Lecoeuche (Groupe Lamotte) - Status: contacted
+• j.maritus@human-immobilier.fr - Maritus Johann (Human Immobilier) - Status: contacted
+• j.roch@orpi.com - Jean-Roch Domenech (Orpi-Legal Immo Perpignan) - Status: contacted
+• j.rondet@human-immobilier.fr - Jean Rondet (Bourse de l'Immobilier) - Status: contacted
+• j.sale@human-immobilier.fr - Jérémie Salé (Human Immobilier) - Status: contacted
+• j.serval@guyhoquet.com - Joffrey .Guyhoquet (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• j.simon@human-immobilier.fr - Jonathan Simon (Human Immobilier) - Status: contacted
+• j.tran@latourimmo.com - Jacques Tran (LA TOUR IMMO) - Status: contacted
+• jacques.beaudoin@cominar.com - Jacques Beaudoin (Cominar) - Status: contacted
+• jacques@atrios-immobilier.fr - Jacques Boussaroque (ATRIOS Immobilier) - Status: contacted
+• jalvarez@ochabitat.es - Juanjo Alvarez Nieto (OC | HABITAT) - Status: contacted
+• jastruc@stephaneplazaimmobilier.com - Astruc Jean-Marie (Stéphane Plaza Immobilier) - Status: contacted
+• jbalsam@stephaneplazaimmobilier.com - Jean Balsam (Stéphane Plaza Immobilier) - Status: contacted
+• jbaziz@sixiemeavenue.com - Jugurtha B (Sixième Avenue) - Status: contacted
+• jbguitry@junot.fr - Jean-Baptiste Guitry (Maison Junot) - Status: contacted
+• jblambert@capelli-immo.com - Jean-Baptiste Lambert (Capelli) - Status: contacted
+• jboillaud@groupegambetta.fr - Boillaud Julien (Groupe Gambetta) - Status: contacted
+• jbonichon@sixiemeavenue.com - Julien Bonichon (Sixième Avenue) - Status: contacted
+• jcl@jvimmo.com - Jean-Christophe Louis (JV IMMOBILIER CONSEIL) - Status: contacted
+• jcostaglioli@cogedim.com - Jerome Costaglioli (Cogedim) - Status: contacted
+• jdalbundo@cabinet-bedin.com - Jimmy D'albundo (Cabinet Bedin Immobilier) - Status: contacted
+• jdalmeida@christelleclauss.com - James D'almeida (Christelle CLAUSS Immobilier) - Status: contacted
+• jdartiailh@stephaneplazaimmobilier.com - Jérôme Dartiailh (Stéphane Plaza Immobilier) - Status: contacted
+• jdelacroix@constructa.fr - Johan Delacroix (Constructa Group) - Status: contacted
+• jdelahaye@immobiliereparis15.fr - Jérôme Delahaye (IMMOBILIERE PARIS 15) - Status: contacted
+• jdelaire@orpi.com - Julien Delaire (ORPI) - Status: contacted
+• jean-baptiste.clement@immodefrance-cifv.fr - Jean-Baptiste Clément (IMMO de France - CIFV) - Status: contacted
+• jean-bernard.godio@ca-immobilier.fr - Jean-Bernard Godio (CA Immobilier) - Status: contacted
+• jean-charles.vallee@damoiseau.immo - Jean-Charles Vallée (damoiseau.immo) - Status: contacted
+• jean-philippe.ledauphin@123webimmo.com - Jean-Philippe Dauphin (123webimmo.com) - Status: contacted
+• jean-pierre.debaste@eraimmo.fr - Jean-Pierre Debaste (ERA Immobilier Saint-Omer) - Status: contacted
+• jean.pitrat@erafrance.com - Jean Pitrat (ERA Immobilier Châteaurenard) - Status: contacted
+• jean@immoba.com - Jean-François Zorz (SILVER COAST INTERNATIONAL REALTY) - Status: contacted
+• jeanbernard.falcot@icade.fr - Jean-Bernard Falcot (ICADE) - Status: contacted
+• jeremie.levy@guyhoquet.com - Jeremie Levy (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• jeremy.hollingworth@coldwellbanker.fr - Jérémy Hollingworth (Coldwell Banker Villanova Realty) - Status: contacted
+• jeremy.pitrey@ladresse.com - Jeremy Pitrey (L'ADRESSE immobilier) - Status: contacted
+• jeremy@erafrance.com - Jeremy Cannet (ERA IMMOBILIER France) - Status: contacted
+• jerome.berrue@ca-immobilier.fr - Jerome Berrue (CA Immobilier) - Status: contacted
+• jerome.rateau@century21.fr - Jérôme Rateau (Century 21 France) - Status: contacted
+• jerome.roussely@pichet.com - Jérôme Roussely (Groupe Pichet) - Status: contacted
+• jerome.sueur@espaces-atypiques.com - Jérôme Sueur (Espaces Atypiques) - Status: contacted
+• jerome.willaert@l-d.fr - Jérôme Willaert (Loiselet & Daigremont) - Status: contacted
+• jerome@human-immobilier.fr - Jérome Garcia (Bourse de l'Immobilier) - Status: contacted
+• jerome@immo-hardt.com - Jérôme Wilhelm (Immobilière de la Hardt) - Status: contacted
+• jf.berthon@century21.fr - Jean Berthon (Century 21 France) - Status: contacted
+• jfmilin@orpi.com - Jean-François Milin (Orpi L'Agence Félix Faure) - Status: contacted
+• jfmolines@citya.com - Jf Molines (citya immobilier) - Status: contacted
+• jgirault@laforet.com - Joel Girault (Laforêt France) - Status: contacted
+• jgragnani@maisonnoireimmobilier.com - Julien Gragnani (Maison Noire Immobilier) - Status: contacted
+• jhemery@gestion-sudalsace.fr - Juan Hemery (GESTION-SUD-ALSACE à ILLZACH) - Status: contacted
+• jjb@leclosimmobilier.fr - JJ Bondon (Le Clos Immobilier) - Status: contacted
+• jlaffargue@valority.com - Julien Laffargue (Valority) - Status: contacted
+• jleroy@laforet.com - Jean-Michel Leroy (Laforêt France) - Status: contacted
+• jm@la-boite-immo.com - Jean-Marc Staes (JMS IMMOBILIER) - Status: contacted
+• jmetayer@sergic.com - Josselin Metayer (SERGIC) - Status: contacted
+• jmmoulin@groupeduval.com - Jean-Marie Moulin (ALAMO) - Status: contacted
+• jn@orpi.com - Julien Nappo (ORPI) - Status: contacted
+• jnoulin@arthurimmo.com - Jérôme Noulin (Arthurimmo.com France) - Status: contacted
+• jocelyn@citya.com - Jocelyn Bangoura (citya immobilier) - Status: contacted
+• joel.guerin@squarehabitat.fr - Joel Guerin (SQUARE HABITAT CENTRE OUEST) - Status: contacted
+• joel@dvimmobilier.com - Joël Vidoudez (Agence DV Immobilier) - Status: contacted
+• joffrey.bonnemberger@home-agency.fr - Joffrey Bonnemberger (Home Agency) - Status: contacted
+• johan.delrieu@ladnimmo.com - Johan Delrieu (L'ADN IMMO) - Status: contacted
+• johann.antonacci@groupe-artea.fr - Johann Antonacci (ARTEA Group) - Status: contacted
+• jonathan.castel@weinvest.fr - Jonathan Castel (We Invest France) - Status: contacted
+• joris.michel@ifc-expertise.fr - Joris Michel (FAVRE-REGUILLON Expertises) - Status: contacted
+• jp.ayache@human-immobilier.fr - Jean-Pierre Ayache (Bourse de l'Immobilier) - Status: contacted
+• jp.desabres@gestria.fr - Jean Desabres (GESTRIA) - Status: contacted
+• jp.dumay@la-boite-immo.fr - Jp Dumay (Agence Immo7) - Status: contacted
+• jp.marcy@stephaneplazaimmobilier.com - Jean-Philippe Marcy (Stéphane Plaza Immobilier) - Status: contacted
+• jperrier@erafrance.com - Jean-Claude Perrier (ERA IMMOBILIER France) - Status: contacted
+• jphetmanivong@ab-habitat.fr - Julie Phetmanivong (AB HABITAT) - Status: contacted
+• jproux@john-taylor.com - Jean-Philippe Roux (John Taylor - Luxury Real Estate) - Status: contacted
+• jprumigajloff@groupe-ram.com - Jean-Philippe Rumigajloff (GROUPE RECHERCHE APPARTEMENT OU MAISON) - Status: contacted
+• jrayne@grechimmo.com - Julien Rayne (GRECH IMMOBILIER) - Status: contacted
+• jtanneveau@laforet.com - Julien Tanneveau (LAFORET IMMOBILIER) - Status: contacted
+• juliana.arakelian@lfimmo.fr - Juliana Arakelian (https://www.juliadamedecompagnie.com/) - Status: contacted
+• julien.alexis@foncia.com - Julien A. (FONCIA) - Status: contacted
+• julien.bertron@groupe-artea.fr - Julien Bertron (ARTEA Group) - Status: contacted
+• julien.blayo@qualiconsult.fr - Julien Blayo (Groupe Qualiconsult) - Status: contacted
+• julien.dessart@weinvest.be - Julien Dessart (We Invest Liège) - Status: contacted
+• julien.dumotier@century21.fr - Julien Dumotier (CENTURY 21 Sud Habitat Fréjus & St Raphaël) - Status: contacted
+• julien.huynh@guyhoquet.com - Julien Huynh (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• julien.luce@icade.fr - Julien Luce (ICADE) - Status: contacted
+• julien.poirson@l-d.fr - Julien Poirson (Loiselet & Daigremont) - Status: contacted
+• julien.stancou@guyhoquet.com - Alexandre Stancou (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• julien@citya.com - Julien Germaneau (CITYA VENDOME LUMIERE) - Status: contacted
+• julien@directimmo34.com - Julien Gentaz (DIRECT IMMOBILIER Littoral) - Status: contacted
+• julien@novea-immobilier.fr - Julien Seguy (NOVEA Immobilier Lyon) - Status: contacted
+• julien@pichelin-immobilier.com - Julien Huet (Pichelin Immobilier) - Status: contacted
+• julmann@christelleclauss.com - Joris Ulmann (Christelle CLAUSS Immobilier) - Status: contacted
+• jvandooren@partenordhabitat.fr - Jean-Michel Vandooren (PARTENORD HABITAT) - Status: contacted
+• jwiacek@partenordhabitat.fr - Jerome Wiacek (PARTENORD HABITAT) - Status: contacted
+• k.gourlaouen@human-immobilier.fr - Kinnie Gourlaouen (Human Immobilier) - Status: contacted
+• k.puche@human-immobilier.fr - Kevin Puche (Human Immobilier) - Status: contacted
+• k.queau@enterprise-immo.fr - Kévin Quéau (ENTERPRISE Immobilier d'Entreprise) - Status: contacted
+• k.reydet@laghome-immobilier.fr - Karine Reydet (LagHome Immobilier) - Status: contacted
+• karim.ladjadj@weinvest.fr - Karim Ladjadj (We Invest Colombes) - Status: contacted
+• kevin@bk-immobilier.com - Kevin Allal (BK IMMOBILIER) - Status: contacted
+• kevin@century21.com - Kevin Lourdes (CENTURY 21®) - Status: contacted
+• kevin@murs-occupes.fr - Kevin Courcier (MURS OCCUPES) - Status: contacted
+• kleroy@stephaneplazaimmobilier.com - Kévin Leroy (Stéphane Plaza Immobilier Lyon 6) - Status: contacted
+• kmas@ideal-groupe.com - Kim Mas (IDEAL groupe) - Status: contacted
+• kristina@maisonk.fr - Kristina Krupska (MAISON K Immobilier) - Status: contacted
+• l-rousseau@orpi.com - Laurent Rousseau (ORPI Saint Loubès) - Status: contacted
+• l.amargier@edouarddenis.fr - Loïc Amargier (Groupe Edouard Denis) - Status: contacted
+• l.bulot@edouarddenis.fr - Ludovic Bulot (Groupe Edouard Denis) - Status: contacted
+• l.cromback@cabinetdormesson.com - Louis Bernard-Cromback (Cabinet d'ORMESSON) - Status: contacted
+• l.favier@orpi.com - Lionel Favier (Orpi Castelas Immobilier) - Status: contacted
+• l.gaillac@gk-immo.fr - Ludovic Gaillac (G&K immo) - Status: contacted
+• l.izar@univers-viager.fr - Laurent Izar (Univers Viager) - Status: contacted
+• l.kolesnik@elogie-siemp.paris - Laurent Kolesnik (Elogie-Siemp) - Status: contacted
+• l.ribeyre@homepearl.immo - Laurent Ribeyre (Home Pearl Immobilier) - Status: contacted
+• l.vassaux-bourges@human-immobilier.fr - Laurent Vassaux-Bourges (Human Immobilier) - Status: contacted
+• lallau@stephaneplazaimmobilier.com - Antoine Lallau (Stéphane Plaza Immobilier) - Status: contacted
+• larnaud@laforet.com - Laurent Arnaud (Laforêt France) - Status: contacted
+• laurent.bernard@microsoft.fr - Laurent Bernard (Groupe Devhold) - Status: contacted
+• laurent.quercy@oxia.fr - Laurent Quercy (OXIA) - Status: contacted
+• laurent.renouard@essor.group - Laurent Renouard (Groupe Essor) - Status: contacted
+• laurent.wargnier@vaneau.fr - Wargnier Laurent (Vaneau) - Status: contacted
+• laurent@agences-placid.com - Laurent Detourbe (Réseau PLACID) - Status: contacted
+• laurent@aucarre.immo - Laurent Darnis (Au carré) - Status: contacted
+• lbeaune@laforet.com - Luc Beaune (Agence Laforet CHAMPEIX) - Status: contacted
+• lbeaurain@laforet.com - Beaurain Ludovic (laforet darnetal) - Status: contacted
+• lbrioude@confiance-immobilier.fr - Loïc Brioude (Confiance - Groupe Immobilier) - Status: contacted
+• lcaburet@laforet.com - Laurent Caburet (Laforêt France) - Status: contacted
+• ldacosta@laforet.com - Laurent Costa (Laforêt France) - Status: contacted
+• ldamore@nhood.com - Laurent D'Amore (Nhood Services France) - Status: contacted
+• ldejob@sixiemeavenue.com - Lionel Dejob (Sixième Avenue) - Status: contacted
+• lea@immobiliere-pujol.fr - Lea Ndjobouela (Immobiliere Pujol) - Status: contacted
+• lefebvre.capbreton@ajp-immobilier.com - Adrien Lefebvre (AJP Immobilier France) - Status: contacted
+• leo.philippe@logisconseil.fr - Léo Philippe (Logis Conseil) - Status: contacted
+• lfantin@fantin-immobilier.fr - Lilian Fantin (Fantin Immobilier) - Status: contacted
+• lheckel@christelleclauss.com - Léonard Heckel (Christelle CLAUSS Immobilier) - Status: contacted
+• lionelgras@orpi.com - Lionel Gras (Orpi Wilson Immobilier) - Status: contacted
+• lkoller@lamy-immobilier.fr - Laurent Koller (Lamy) - Status: contacted
+• llegry@sergic.com - Ludovic Legry (SERGIC) - Status: contacted
+• lm@century21.com - Larisa Minov (CENTURY 21®) - Status: contacted
+• lmarini@cabcourtois.com - Lucas Marini (Cabinet Courtois) - Status: contacted
+• lmasure@groupeduval.com - Laurent Masure (ALAMO) - Status: contacted
+• lmelcion@laforet.com - Léo Melcion (Laforêt France) - Status: contacted
+• logan.clerc@century21.fr - Logan Clerc (CENTURY 21 Terre de Provence) - Status: contacted
+• loic.claereboudt@pulp-immobilier.fr - Loic Claereboudt (PULPIMO) - Status: contacted
+• loic.lebail@qualiconsult.fr - Loïc Bail (Groupe Qualiconsult) - Status: contacted
+• loic.rouyer@123webimmo.com - Loïc Rouyer (123webimmo.com Verdun) - Status: contacted
+• lorlando@citya.com - Laurent Orlando (citya immobilier) - Status: contacted
+• lratnakumar@stephaneplazaimmobilier.com - Lalinthan Ratnakumar (Stéphane Plaza Immobilier) - Status: contacted
+• lsarens@laforet.com - Laurent Sarens (Laforêt France) - Status: contacted
+• lubin.legendre@orpi.com - Lubin Legendre (ORPI - GIE GRAND EST PARISIEN) - Status: contacted
+• ludovic.baptista@sogesym.com - Ludovic Baptista (SOGESYM) - Status: contacted
+• ludovic.janas@lmh.fr - Ludovic Janas (Lille Métropole Habitat) - Status: contacted
+• ludovic@monbelappart.com - Ludovic Pin (OQORO) - Status: contacted
+• m.andrieu@breteuilhomes.com - Marc Andrieu (Breteuil) - Status: contacted
+• m.buhrel@ventis-immobilier.fr - Mickael Buhrel (VENTIS Immobilier) - Status: contacted
+• m.chouki@human-immobilier.fr - Mehdi Chouki (Human Immobilier) - Status: contacted
+• m.debayser@danielfeau.com - Marc Bayser (Daniel Féau Conseil Immobilier) - Status: contacted
+• m.dumas@alliade.com - Michaël Dumas (Alliade Habitat) - Status: contacted
+• m.evrard@pozzo-immobilier.fr - Mathieu Evrard (POZZO) - Status: contacted
+• m.fofana@breteuilhomes.com - Mara Fofana (Breteuil) - Status: contacted
+• m.francisco@bouygues-immobilier.com - Mickaël Francisco (Bouygues Immobilier) - Status: contacted
+• m.kucharski@fonciere-inea.com - Mathieu Kucharski (FONCIERE INEA) - Status: contacted
+• m.legall@latourimmo.com - Mikael Gall (LA TOUR IMMO) - Status: contacted
+• m.mendes@wrbconseil-immobilier.com - Monica Mendes (WRB CONSEIL IMMOBILIER) - Status: contacted
+• m.merhom@alomrane.gov.ma - Mohammed Merhom (Holding Al Omrane) - Status: contacted
+• m.mrabti@alomrane.gov.ma - Mohammed Mrabti (Al Omrane) - Status: contacted
+• m.ricque@edouarddenis.fr - Matthieu Ricque (Groupe Edouard Denis) - Status: contacted
+• m.sanchez@human-immobilier.fr - Michel Sanchez (Human Immobilier) - Status: contacted
+• m.sucret@realysmart.com - Maxime Sucret (Une Villa et des Vignes) - Status: contacted
+• m.teixeira@citylife.fr - Michel Teixeira (Citylife Immobilier) - Status: contacted
+• maero@bonaparte-promotion.fr - Damien Maero (Bonaparte Promotion) - Status: contacted
+• magali.mercier@erilia.fr - Magali Mercier (Erilia SA) - Status: contacted
+• maison-alfortalfort-ville.nestenn@nestenn.com - Nestenn Alfort-Ville (Nestenn Immobilier) - Status: contacted
+• malteries@erafrance.com - Xavier Bardeau (ERA Immobilier MATHIS & Malteries) - Status: contacted
+• marc.larrouy@pandora-immobilier.com - Marc Larrouy (PANDORA IMMOBILIER) - Status: contacted
+• maria.castro@qualiconsult.fr - Maria Castro (Groupe Qualiconsult) - Status: contacted
+• marina.fedon@domaine.net - Marina Fedon (CDC Habitat) - Status: contacted
+• marion.carnicelli@sic.nc - Marion Carnicelli (Société Immobilière de Nouvelle-Calédonie (SIC)) - Status: contacted
+• marion.lemonnier@socgen.com - Marion Lemonnier (Societe Generale) - Status: contacted
+• marion.pelegri@squarehabitat.fr - Marion Pelegri (Square Habitat Sud Rhône Alpes) - Status: contacted
+• martin@pichelin-immobilier.com - Martin Auvillain (Pichelin Immobilier) - Status: contacted
+• mathias.brethenoux@foncia.com - Mathias Brethenoux (FONCIA) - Status: contacted
+• mathieu.colombier@matim.fr - Mathieu Colombier (MATIM IMMOBILIER) - Status: contacted
+• mathieu.gilbert@squarehabitat.fr - Mathieu Gilbert (SQUARE HABITAT TOULOUSE 31) - Status: contacted
+• mathieu.guilbert@lionrose.fr - Mathieu Guilbert (LIONROSE agence immobilière) - Status: contacted
+• mathieu.roumeas@axite.fr - Mathieu Roumeas (CBRE Axite) - Status: contacted
+• matthieu.henry@namixis.com - Matthieu Henry (NAMIXIS - SSICOOR) - Status: contacted
+• matthieu@erafrance.com - Matthieu Heili (ERA Immobilier Valdahon) - Status: contacted
+• matthieu@rueduneuf.immo - Matthieu Mangano (Rueduneuf) - Status: contacted
+• maxence.perrin@cimm.com - Maxence Perrin (Cimm immobilier) - Status: contacted
+• maxime.ohana@guyhoquet.com - Maxime Ohana (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• maxime.szymaniak@lmh.fr - Maxime Szymaniak (Lille Métropole Habitat) - Status: contacted
+• maxime@bonjour-oscar.com - Maxime Defranoux (Bonjour Oscar - Immobilier Paris) - Status: contacted
+• maxime@pichelin-immobilier.com - Maxime Mignot (Pichelin Immobilier) - Status: contacted
+• mbauby@immosevres.com - Marc Bauby (AGENCE IMMOBILIERE DE SEVRES) - Status: contacted
+• mbaudouin@laforet.com - Marina Baudouin (Laforêt France) - Status: contacted
+• mbenhaddaoui@alliances.co.ma - Mustapha Benhaddaoui (Alliances) - Status: contacted
+• mbrerard@laforet.com - Mathieu Brérard (Laforêt France) - Status: contacted
+• mcancellara@citya.com - Michel Cancellara (citya immobilier) - Status: contacted
+• mchollet@stradim.fr - Maurice Chollet (Stradim) - Status: contacted
+• mcozic@orpi.com - Michel Cozic (Orpi - Foncièrement Vôtre) - Status: contacted
+• mehdiz@laforet.com - Mehdi Zouglech (Laforêt France) - Status: contacted
+• melun@laforet.com - Melun Laforêt (Laforêt France) - Status: contacted
+• mgio@stephaneplazaimmobilier.com - Michel Gio (Stéphane Plaza Immobilier) - Status: contacted
+• mgoncalves@junot.fr - Melvyn Goncalves (Maison Junot) - Status: contacted
+• mgraux@opacoise.fr - Marine Graux (OPAC de l'Oise) - Status: contacted
+• michael.maurice@foncia.com - Michael Maurice (Foncia immo neuf) - Status: contacted
+• michael@citya.com - Michael Bernard (citya immobilier) - Status: contacted
+• michael@consultants-immobilier.com - Michaël Koskas (CONSULTANTS IMMOBILIER) - Status: contacted
+• michel.ielo@ladresse.com - Michel Ielo (L'ADRESSE immobilier) - Status: contacted
+• michel@montoit-immobilier.eu - Maquaire Michel (MONTOIT IMMOBILIER) - Status: contacted
+• mickael.balden@guyhoquet.com - Mickael Balden (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• mickael.guersan@instantimmo.fr - Mickaël Guersan (INSTANTiMMO) - Status: contacted
+• mickael.molina@icade.fr - Mickael Molina (ICADE) - Status: contacted
+• mickael@seven-immo.com - Mickaël Mimran (Seven Immobilier) - Status: contacted
+• mike@la-boite-immo.com - Michael Chiara (DI CHIARA IMMOBILIER) - Status: contacted
+• mireille.fortier@domaine.net - Mireille Fortier (CDC Habitat) - Status: contacted
+• mjean@citya.com - Jean Molines (citya immobilier) - Status: contacted
+• mlagarde@immotis.fr - Marilyne Lagarde (Immotis) - Status: contacted
+• mlecoq@ketb.com - Manuel Coq () - Status: contacted
+• mmodric@lei.fr - Mahamoud Modric (LEI) - Status: contacted
+• morgantoutdroit@tournymeyer.fr - Morgan Toutdroit (🔸 Tourny Meyer 🔸) - Status: contacted
+• mpavy@partenordhabitat.fr - Matthieu Pavy (PARTENORD HABITAT) - Status: contacted
+• mpguillonneau@nge.fr - Marie-Pierre Guillonneau (NGE IMMOBILIER) - Status: contacted
+• mtouly@laforet.com - Michael Touly (Laforêt France) - Status: contacted
+• mzouaoui@laforet.com - Mehdi Zouaoui (Laforêt Henri IV) - Status: contacted
+• n.bailly@edouarddenis.fr - Nicolas Bailly (Groupe Edouard Denis) - Status: contacted
+• n.benhammani@human-immobilier.fr - Nordine Benhammani (Human Immobilier) - Status: contacted
+• n.corre@human-immobilier.fr - Nicolas Corre (Human Immobilier) - Status: contacted
+• n.grujic@agenceprincipale.com - Nenad Grujic (Agence Principale Montmartre) - Status: contacted
+• n.helias@ascoreal.fr - Nicolas Helias (AsCoRéal) - Status: contacted
+• n.izzi@alexandregouinimmobilier.com - Nicolas Izzi (Alexandre Gouin Conseil Immobilier) - Status: contacted
+• n.malbeaux@stephaneplazaimmobilier.com - Nicolas Malbeaux (Stéphane Plaza Immobilier Saint Jean & Saint Sulpice la Pointe) - Status: contacted
+• n.naili@alliade.com - Nordine Naili (Alliade Habitat) - Status: contacted
+• n.violain@realites.com - Nicolas Violain (REALITES) - Status: contacted
+• nathalie.bruley@erilia.fr - Nathalie Bruley (Erilia SA) - Status: contacted
+• nborge@valeurimmoparis.com - Nicolas Borge (Valeur Immo Paris) - Status: contacted
+• nbubisutti@christelleclauss.com - Nicolas Bubisutti (Christelle CLAUSS Immobilier) - Status: contacted
+• ncecile@stephaneplazaimmobilier.com - Nicolas Cecile (Stéphane Plaza Immobilier) - Status: contacted
+• ndemonchaux@aventim.com - Nicolas Demonchaux (AVENTIM) - Status: contacted
+• nduthoy@nacarat.com - Nicolas Duthoy (Nacarat) - Status: contacted
+• ngrez@nicole-joubert.fr - Nicolas Grez (Groupe Nicole JOUBERT) - Status: contacted
+• nicolas.debeney@lesresidences.fr - Nicolas Debeney (Les Résidences Yvelines Essonne) - Status: contacted
+• nicolas.dusart@lmh.fr - Nicolas Dusart (Lille Métropole Habitat) - Status: contacted
+• nicolas.vayrac@la-boite-immo.fr - Nicolas Vayrac (CV IMMOBILIER - Nicolas Vayrac) - Status: contacted
+• nicolas.vicenty@guyhoquet.com - Nicolas Vicenty (Guy Hoquet Paris 11 Oberkampf République) - Status: contacted
+• nicolas@citya.com - Nicolas Perez (Citya Gallichet Lemaitre) - Status: contacted
+• nicolas@laforet.com - Nicolas Borloch (Laforêt France) - Status: contacted
+• nicolas_derceville@carrefour.com - Nicolas D'Erceville (Carrefour Property) - Status: contacted
+• nicolascapon@erafrance.com - Nicolas Capon (ERA IMMOBILIER France) - Status: contacted
+• nicolascochet@pcimmobilier.com - Nicolas Cochet (Prestige & Conseils Immobilier (PCI)) - Status: contacted
+• nikolai.leger@guyhoquet.com - Nikolai Leger (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• nnourrain@citya.com - Nicolas Nourrain (citya immobilier) - Status: contacted
+• nolwen.vivant@cobalt-immobilier.fr - Nolwen Vivant (Cobalt Immobilier Blain - Pornichet) - Status: contacted
+• nprivat@junot.fr - Numa Privat (Maison Junot) - Status: contacted
+• nvatinos@inandout-amo.com - Nicolas Vatinos (IN&OUT AMO) - Status: contacted
+• o.guiton@human-immobilier.fr - Olivier Guiton (Human Immobilier) - Status: contacted
+• o.minot@gexpertise.fr - Olivier Minot (Gexpertise) - Status: contacted
+• o.richez@human-immobilier.fr - Olivier Richez (Human Immobilier) - Status: contacted
+• odry@parisimmoinvest.com - Anthony Odry (Paris Immobilier Investissement) - Status: contacted
+• odumoret@cabinet-bedin.com - Olivier Dumoret (Cabinet Bedin Immobilier) - Status: contacted
+• odurieux@stephaneplazaimmobilier.com - Olivier D. (Sixième Avenue Sologne - Vierzon) - Status: contacted
+• oj.bois@atrium-gestion.fr - Olivier-Jérémie Bois (CABINET DE GESTION GUY SOUTOUL C.G.S.) - Status: contacted
+• olaurans@habitat44.org - Olivier Laurans (HABITAT 44) - Status: contacted
+• oleroux@plainecommunehabitat.fr - Olivier Roux (Plaine Commune Habitat) - Status: contacted
+• olivier.cauchard@opidom-immobilier.fr - Olivier Cauchard (Lille&Co Immobilier) - Status: contacted
+• olivier.dumon@ornano-immobilier.com - Olivier Dumon (ORNANO IMMOBILIER) - Status: contacted
+• olivier.eyraud@cdc-habitat.fr - Olivier Eyraud (CDC Habitat) - Status: contacted
+• olivier.guilland@123webimmo.com - Olivier Guilland (123webimmo.com) - Status: contacted
+• olivier.marez@tisserin-promotion.com - Olivier Marez (Tisserin Promotion) - Status: contacted
+• olivier.teynie@lamy.net - Olivier Teynié (Lamy) - Status: contacted
+• olivier@boschi-immobilier.com - Olivier Estevan (Boschi Prestige Immobilier) - Status: contacted
+• olivier@cote-immobilier.fr - Olivier Brun (Côte Immobilier) - Status: contacted
+• olivier@solaris-gestion.fr - Olivier Martin (SOLARIS Management) - Status: contacted
+• olivierbohn@we-prom.com - Olivier Bohn (We. prom !) - Status: contacted
+• opetit@laforet.com - Olivier Petit (Agence immobilière Laforêt Saint Avertin) - Status: contacted
+• p.abrial@promogim.fr - Pierre Abrial (PROMOGIM) - Status: contacted
+• p.farudja@leongrosse-immobilier.fr - Patrick Verdier-Farudja (Léon Grosse | Immobilier) - Status: contacted
+• p.flory@lyonimmo.com - Pierre Flory (Sainte Foy Immobilier) - Status: contacted
+• p.germaneau@human-immobilier.fr - Pascal Germaneau (Human Immobilier) - Status: contacted
+• p.giet@moove-immo.com - Paul Giet (MOOVE) - Status: contacted
+• p.mesquita@guyhoquet.com - Philippe Mesquita (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• p.patrick@coteparticuliers.com - Patrick Pithon (Côté Particuliers) - Status: contacted
+• p.runge@zestia.fr - Paul Runge (ZESTIA - CHASSEUR DE SERENITE) - Status: contacted
+• p.thevenot@human-immobilier.fr - Philippe Thevenot (Human Immobilier) - Status: contacted
+• pacquelet@ladresse.com - Eric Pacquelet (L'Adresse Strasbourg) - Status: contacted
+• pacucalon@cogedim.com - Pierre-Antoine Cucalon (Cogedim) - Status: contacted
+• pannecouke@oriba.fr - Pierre-Antoine Pannecouke (Oriba Immobilier) - Status: contacted
+• paparas@breteuilimmo.com - Pierre Paparas (Breteuil) - Status: contacted
+• parcevaux-stephane@abithea.fr - Stéphane Parcevaux (Abithéa Libourne) - Status: contacted
+• parmengau@stradim.fr - Philippe Armengau (Stradim) - Status: contacted
+• particuliers@coteparticuliers.com - Marc Particuliers (Côté Particuliers) - Status: contacted
+• pascal.aubin@ajp-immobilier.fr - Pascal Aubin (AJP Immobilier France) - Status: contacted
+• pascal.maillet@covea-immobilier.fr - Pascal Maillet (Covéa Immobilier) - Status: contacted
+• pascal@orpi.com - Pascal Blanchard (ORPI Agence des 3 Forts 13007-13001 MARSEILLE) - Status: contacted
+• patrick.gaschen@barnes-suisse.ch - Patrick Gaschen (Lions Clubs International) - Status: contacted
+• patrick.ropert@la-boite-immo.fr - Patrick Ropert (ROPERT IMMO) - Status: contacted
+• patrick@consultantsimmobilier.com - Patrick Rissel (CONSULTANTS IMMOBILIER) - Status: contacted
+• patrick@stephaneplazaimmobilier.com - Patrick Mesrobian (Stéphane Plaza Immobilier) - Status: contacted
+• pbeny@fac-immobilier.com - Philippe Beny (FAC IMMOBILIER) - Status: contacted
+• pberland@orpi.com - Pascal Berland (ORPI) - Status: contacted
+• pbouquet@laforet.com - Pascal Bouquet (Laforêt France) - Status: contacted
+• pcoullaud@gc-immo.fr - Pascal Coullaud (AGENCE GC IMMOBILIER) - Status: contacted
+• pedro.demoura@barraine-immo.com - Pedro Moura (BARRAINE IMMO) - Status: contacted
+• pf.acquaviva@eclisse-promotion.fr - Pierre-Francois Acquaviva (Eclisse Promotion) - Status: contacted
+• pg@agence-etoile.com - Gimenz Patrice (Agence Etoile) - Status: contacted
+• pguinot@remax.com - Philippe Guinot (REMAX) - Status: contacted
+• ph.marchant@agencesoyez.fr - Philippe Marchant (SOYEZ IMMOBILIER ENTREPRISES) - Status: contacted
+• philip.cendre@engelvoelkers.com - Philip Cendre (Engel & Völkers France) - Status: contacted
+• philippe.babin@ladresse.com - Philippe Babin (l'Adresse Tonnay Charente) - Status: contacted
+• philippe.caritez@immobilieretvous.fr - Philippe Caritez (Buro.Paris) - Status: contacted
+• philippe.nadotti@nadotti.fr - Philippe Nadotti (FONCIERE DU CLOS) - Status: contacted
+• philippe@agences-placid.com - Philippe Routier (Réseau PLACID) - Status: contacted
+• pierre.beridot@foncia.com - Pierre Beridot (FONCIA) - Status: contacted
+• pierre.chamouleau@ladresse.com - Pierre Chamouleau (L'ADRESSE immobilier) - Status: contacted
+• pierre.ragot@agtim.immo - Pierre Ragot (Cabinet AGTIM) - Status: contacted
+• placroix@cogedim.com - Pierrick Lacroix (Cogedim) - Status: contacted
+• plamiaux@lamy-immobilier.fr - Paul Lamiaux (Lamy) - Status: contacted
+• plavios@laforet.com - Philippe Antoni (Laforêt Bastia) - Status: contacted
+• pldarras@laforet.com - Pierre-Luc Darras (Laforêt France) - Status: contacted
+• pluart.arnaud@vinci-immobilier.com - Arnaud Pluart (VINCI Real Estate) - Status: contacted
+• plukasik@stephaneplazaimmobilier.com - Pierre-Alexandre Lukasik (LES AGENCES STEPHANE PLAZA IMMOBILIER DE BOULOGNE-BILLANCOURT) - Status: contacted
+• pmarais@leslotisseursdunord.fr - Philippe Marais (LES LOTISSEURS DU NORD) - Status: contacted
+• pmathon@rabotdutilleul.com - Pascal Mathon (Rabot Dutilleul) - Status: contacted
+• poulain@bonaparte-promotion.fr - Quentin Poulain (Bonaparte Promotion) - Status: contacted
+• ppreval@peakimmobilier.com - Philippe Preval (Peak Immobilier) - Status: contacted
+• prenucci@mandat2recherche.com - Peggy Renucci (MANDAT DE RECHERCHE) - Status: contacted
+• proyer@stephaneplazaimmobilier.com - Pascal Royer (Stéphane Plaza Immobilier) - Status: contacted
+• q.douine@breteuilhomes.com - Quentin Douine (Breteuil) - Status: contacted
+• q.sobol@human-immobilier.fr - Quentin Sobol (Human Immobilier) - Status: contacted
+• quentin.stutz@remax.fr - Quentin Stutz (REMAX AUTHENTIC) - Status: contacted
+• r.bazelle@bouygues-immobilier.com - Richard Bazelle (Bouygues Immobilier) - Status: contacted
+• r.bertrand@homegaimmo.fr - Rémy Bertrand (Agence Homega) - Status: contacted
+• r.cavrot@breteuilhomes.com - Rémy Cavrot (Breteuil) - Status: contacted
+• r.chevallier@arthurimmo.com - Romain Chevallier (Arthurimmo.com France) - Status: contacted
+• r.cosme@nestenn.com - Raul Cosme (Nestenn Immobilier) - Status: contacted
+• r.derozier@nestenn.com - Romuald Derozier (NESTENN SAINT-CLOUD) - Status: contacted
+• r.dumery@human-immobilier.fr - Regis Baguois (Human Immobilier) - Status: contacted
+• r.garcia@jcadb.org - Rémy Garcia (Cabinet Jean CHARPENTIER SOPAGI S.A.S) - Status: contacted
+• r.hannach@nestenn.com - Ryad Hannach (Nestenn meyzieu) - Status: contacted
+• r.marlier@nestenn.com - Raphaël Marlier (NESTENN Lyon 6) - Status: contacted
+• r.paolini@edouarddenis.fr - Raphael Paolini (Groupe Edouard Denis) - Status: contacted
+• r.treuilhe@p2i.fr - Romain Treuilhé (P2i) - Status: contacted
+• raphael.cohen@imaprim.net - Raphael Cohen (IMAPRIM) - Status: contacted
+• rcockman@raywhite.com - Ric Cockman (Ray White Broome) - Status: contacted
+• rdjeddah@laforet.com - Romain Djeddah (Laforêt France) - Status: contacted
+• regis.bernard@weinvest.be - Régis Bernard (We Invest Real Estate) - Status: contacted
+• remi.bonet@saiemagire.fr - Rémi Bonet (Saiem Agire) - Status: contacted
+• remi.gauvain@citya.com - Rémi Gauvain (citya immobilier) - Status: contacted
+• remy.androuet@icfhabitat.fr - Rémy Androuet (ICF HABITAT) - Status: contacted
+• renaud.metivier@engelvoelkers.com - Renaud Métivier (Engel & Völkers) - Status: contacted
+• rene.pennec@lesnevenimmobilier.fr - René Pennec (Lesneven Immobilier) - Status: contacted
+• rgandon@franco-suisse.fr - Romain Gandon (FRANCO SUISSE) - Status: contacted
+• rgiudicelli@valority.com - Romain Giudicelli (Valority) - Status: contacted
+• richard.bonaldi@espaces-atypiques.com - Richard Bonaldi (Espaces Atypiques) - Status: contacted
+• richard.fierro@groupeduval.com - Richard Fierro (ALAMO) - Status: contacted
+• richard.hennequin@ladresse.com - Richard Hennequin (L'ADRESSE immobilier) - Status: contacted
+• rlaurent@sixiemeavenue.com - Romain Laurent (Sixième Avenue) - Status: contacted
+• rmarconnet@laforet.com - Rémi Marconnet (Laforêt France) - Status: contacted
+• robert.angeli@luxurybyblue.com - Robert Angeli (Luxury By Blue) - Status: contacted
+• rody@uni-immobilier.fr - Ren Ody (Agence Uni immobilier) - Status: contacted
+• romain@century21.fr - Romain Costarella (CENTURY 21®) - Status: contacted
+• romain@jacheteenespagne.com - Romain Traversino (J'achète en Espagne) - Status: contacted
+• romanbossion@elgea-habitat.com - Roman Bossion (ELGEA) - Status: contacted
+• romorantin@stephaneplazaimmobilier.com - Stéphane Romorantin (Stéphane Plaza Immobilier) - Status: contacted
+• romuald@gecko-immobilier.com - Romuald Chabeau (Gecko Immobilier) - Status: contacted
+• rp@immotransac.re - Ritchel Pitou ️ (𝔸𝐆𝐄𝐍𝐂𝐄 𝕀𝐌𝐌𝐎 𝕋𝐑𝐀𝐍𝐒𝐀𝐂) - Status: contacted
+• rpinguet@laforet.com - Robert Pinguet (Laforêt France) - Status: contacted
+• rs@stephaneplazaimmobilier.com - Serge Ract-Mugnerot (Stéphane Plaza Immobilier) - Status: contacted
+• rthiery@nacarat.com - Rémy Thiery (Nacarat) - Status: contacted
+• rthomas@nexity.fr - Thomas Roinard (Nexity) - Status: contacted
+• rtouze@partenordhabitat.fr - Richard Touzé (PARTENORD HABITAT) - Status: contacted
+• ryad@kadence-immobilier.fr - Ryad Khemissi (KADENCE IMMOBILIER) - Status: contacted
+• rzecchinon@laforet.com - Robin Zecchinon (Laforêt France) - Status: contacted
+• s.bousquet@guyhoquet.com - Simon Bousquet (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• s.chamakhi@jcadb.org - Selim Chamakhi (Cabinet Jean CHARPENTIER SOPAGI S.A.S) - Status: contacted
+• s.debocq@guyhoquet.com - Sylvain Debocq (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• s.duro@nestenn.com - Samuel Duro (NESTENN Guadeloupe) - Status: contacted
+• s.langlet@nestenn.com - Sylvain Langlet (Nestenn Immobilier) - Status: contacted
+• s.lieugard@mytotem.fr - Sullivan Lieugard (MyTotem) - Status: contacted
+• s.negri@mikit.fr - Sébastien Negri (MIKIT) - Status: contacted
+• s.pelletier@guyhoquet.com - Sidney Pelletier (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• s.prades@guyhoquet.com - Stéphane Prades (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• s.sitruk@cd-paris.fr - Simon (Conseil et Développement Immobilier) - Status: contacted
+• s.taupin@human-immobilier.fr - Sébastien Taupin (Human Immobilier) - Status: contacted
+• sabri.barnou@vitisimmobilier.fr - Sabri Barnou (VITIS IMMOBILIER) - Status: contacted
+• samuel.coppel@dromeamenagementhabitat.fr - Samuel Coppel (Drôme Aménagement Habitat) - Status: contacted
+• samuel.javaudin@foncia.com - Samuel Javaudin (FONCIA) - Status: contacted
+• sbianco@pitchimmo.fr - Sébastien Bianco (Cogedim - Pitch Immo) - Status: contacted
+• sboudol@nexity.fr - Sylvain Boudol (Nexity) - Status: contacted
+• sbourrel@sergic.com - Sébastien Bourrel (SERGIC) - Status: contacted
+• sc@orpi.com - Colbert Stéphane (ORPI) - Status: contacted
+• schappelon@sixiemeavenue.com - Sylvain Chappelon (Sixième Avenue) - Status: contacted
+• schupin@citya.com - Sébastien Chupin (citya immobilier) - Status: contacted
+• sebastien.brun@sancy-immobilier.com - Sébastien Brun (SANCY IMMO) - Status: contacted
+• sebastien.monin@mail.adim.com - Sébastien Monin (ADIM Lyon) - Status: contacted
+• sebastien.peirs@cofim-immobilier.com - Sébastien Peirs (Groupe COFIM Immobilier) - Status: contacted
+• sebastien.vedel@espaces-atypiques.com - Sébastien Vedel (Espaces Atypiques) - Status: contacted
+• sebastienroche@tournymeyer.fr - Sebastien Roché (🔸 Tourny Meyer 🔸) - Status: contacted
+• sena.kasic@rivp.fr - Sena Kasic (RIVP) - Status: contacted
+• serge.khanlian@ladresse.com - Serge Khanlian (L'ADRESSE PARIS EST - SCOOP IMMOBILIER) - Status: contacted
+• serge.mancarella@cm-activites-immo.fr - Serge Mancarella (Crédit Mutuel Immobilier) - Status: contacted
+• sezer.sarikaya@eve-immobilier.fr - Sezer Sarikaya (EVE IMMOBILIER) - Status: contacted
+• sguillard@laforet.com - Serge Guillard (Agence Laforet Orléans) - Status: contacted
+• shamin.sheikh@pierreval.com - Shamin Sheikh (GROUPE PIERREVAL) - Status: contacted
+• simon.gauthier@nexity.fr - Simon Gauthier (Nexity) - Status: contacted
+• simon.maille@century21.fr - Simon Maillé (Century 21 Berritzea) - Status: contacted
+• simon@groupedaca.com - Simon Cifola (Groupe DACA) - Status: contacted
+• simonraba@franceimmobilier.fr - Simon Raba (France Immobilier) - Status: contacted
+• sm@ipi.be - Selim Marocchi (Groupe Rêvimmo) - Status: contacted
+• smahfi@stephaneplazaimmobilier.com - Sébastien Mahfi (Stéphane Plaza Immobilier) - Status: contacted
+• sollies@nestenn.com - Ralph Belval (Nestenn Immobilier) - Status: contacted
+• sppoirier@pro-immo.ca - Simon-Pierre Poirier (Pro Immobilier & Hypothèque inc.) - Status: contacted
+• srabet@citya.com - Stéphane Rabet (citya immobilier) - Status: contacted
+• steeve.bovet@sothebysrealty.com - Steeve Bovet (Sotheby's International Realty) - Status: contacted
+• stella@ladresse.com - Laurent Stella (Massy Vilmorin Immobilier) - Status: contacted
+• stephan@agn-immobilier.net - Stephan Agneessens (AGN IMMOBILIER) - Status: contacted
+• stephane.bernard@citya.com - Stephane Bernard (citya immobilier) - Status: contacted
+• stephane.goupy@rhonehabitat.fr - Stephane Goupy (DEUX FLEUVES RHONE HABITAT) - Status: contacted
+• stephane.mange@qualiconsult.fr - Stéphane Mange (Groupe Qualiconsult) - Status: contacted
+• stephane.marques@bienavousimmo.com - Stephane Marques (Bien à Vous Immobilier Castanet-Tolosan) - Status: contacted
+• stephane.mauny@ajp-immobilier.fr - Stephane Mauny (AJP Immobilier France) - Status: contacted
+• stephane@opus-immo.com - Stéphane Bagez (OPUS IMMO) - Status: contacted
+• stephane@thillard-duhamel.com - Stéphane Bertrem (THILLARD & DUHAMEL) - Status: contacted
+• stephen.lebalch@ladresse.com - Stephen Balch (L'ADRESSE | Saint-Germain-en-Laye) - Status: contacted
+• suzie.chavrot@groupe3f.fr - Suzie Chavrot (Immobilière 3F) - Status: contacted
+• svancappel@citya.com - Sandra Vancappel (citya immobilier) - Status: contacted
+• svancappel@thierry-immobilier.fr - Sandra Vancappel (citya immobilier) - Status: contacted
+• svrignaud@valority.com - Sylvain Vrignaud (Valority) - Status: contacted
+• swan.cailleux@swanimmo.com - Swan Cailleux (Swan & Co. Immo) - Status: contacted
+• sylvain.boissard@ajp-immobilier.fr - Sylvain Boissard (AJP Immobilier France) - Status: contacted
+• syndic@citya.com - Syndic Carre (citya immobilier) - Status: contacted
+• t.ashtiyani-henri@human-immobilier.fr - Théo Henri (Human Immobilier) - Status: contacted
+• t.aubourg@orne-habitat.com - Thomas Aubourg (OFFICE PUBLIC DE L'HABITAT DE L'ORNE) - Status: contacted
+• t.champion@transacom.com - Thierry Champion (TRANSACOM) - Status: contacted
+• t.chesnot@la-ie.fr - Thomas Chesnot (L&A Immobilier Entreprise) - Status: contacted
+• t.jurion@human-immobilier.fr - Tristan Jurion (HUMAN IMMOBILIER) - Status: contacted
+• t.motard@human-immobilier.fr - Thibaut Motard (Human Immobilier) - Status: contacted
+• t.msabi@human-immobilier.fr - M'sabi Thierry (Human Immobilier) - Status: contacted
+• t.orsini@guyhoquet.com - Teddy Orsini (Guy Hoquet Valence Sud) - Status: contacted
+• t.planche@pietrapolis.fr - Thibaut Planche (Pietrapolis agenceLyon7) - Status: contacted
+• t.sikora@vacherand.fr - Thomas Sikora (Vacherand Immobilier) - Status: contacted
+• t.vacchi@lepercq-immobilier.com - Teddy Vacchi (GROUPE LEPERCQ IMMOBILIER) - Status: contacted
+• t.veyradier@swixim.com - Thierry Veyradier (Swixim International valreas) - Status: contacted
+• t.voisin@bouygues-immobilier.com - Thibault Voisin (Bouygues Immobilier) - Status: contacted
+• tbeligny@stephaneplazaimmobilier.com - Thomas Beligny (Stéphane Plaza Immobilier) - Status: contacted
+• tbourgougnon@plainecommunehabitat.fr - Thomas Bourgougnon (Plaine Commune Habitat) - Status: contacted
+• tchevrollierrouxel@stephaneplazaimmobilier.com - Thomas Chevrollier-Rouxel (Stéphane Plaza Immobilier) - Status: contacted
+• tecnocasa@tecnocasa.com - Marne Tecnocasa (FRANCHISING TECNOCASA FRANCE) - Status: contacted
+• theophile.richard@erafrance.com - Théophile Richard (ERA IMMOBILIER France) - Status: contacted
+• thibaut.jungen@la-boite-immo.fr - Thibaut Jungen (AGENCE IMMOBILIERE LM) - Status: contacted
+• thierry.pouvreau@guyhoquet.com - Thierry Pouvreau (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• thomas.jaquet@belmont-immobilier.com - Thomas Jaquet (Belmont Properties) - Status: contacted
+• thomas.l_immobilier@guy-hoquet.com - Thomas L’immobilier (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• thomas@artetpierreimmobilier.fr - Thomas Vadelorge (Art et Pierre Immobilier) - Status: contacted
+• thomas@provencevillaselection.com - Thomas Sarmiento (Sarmiento Immobilier) - Status: contacted
+• thumbert@bouygues-immobilier.net - Thomas Humbert (Bouygues Immobilier) - Status: contacted
+• tim.descat@coteparticuliers.com - Tim Descat (Coté Particuliers Evreux/Saint Sébastien) - Status: contacted
+• timothee@tam-immo.fr - Timothée Dyevre (TAM Immobilier) - Status: contacted
+• tlapart@orpi.com - Thierry Lapart (ORPI FRANCE) - Status: contacted
+• tperriot@kahili.fr - Thomas Perriot (KAHILI) - Status: contacted
+• v.dumaine@bouygues-immobilier.com - Vincent Dumaine (Bouygues Immobilier) - Status: contacted
+• v.lestelle@cpcinvest.fr - Vincent Lestelle (CPC Invest) - Status: contacted
+• valentin.filis@hb-immobilier.com - Valentin Filis (Groupe H&B Immobilier) - Status: contacted
+• vanessa@strathfieldpartners.com.au - Vanessa Kim (Strathfield Partners® Real Estate) - Status: contacted
+• vaugirard@pelissolo.com - Vaugirard Pelissolo (PELISSOLO IMMOBILIER) - Status: contacted
+• vbarbat@stephaneplazaimmobilier.com - Vincent Barbat (Sixième Avenue Arpajon & Bretigny sur Orge) - Status: contacted
+• vbarrochin@groupe-valrim.fr - Vincent Barrochin (GROUPE VALRIM) - Status: contacted
+• vcoinaud@cogedim.com - Vincent Coinaud (Cogedim) - Status: contacted
+• vdemilecamps@stephaneplazaimmobilier.com - Vincent Demilecamps (Arthurimmo.com Beaugency) - Status: contacted
+• veronique.lemineur@century21.fr - Veronique Mineur (Century 21 L'Immobilière de Plouha) - Status: contacted
+• vguillaume@laforet.com - Guillaume Vergie (Laforêt France) - Status: contacted
+• victor.martin@martin-gestion.com - Victor Martin (MARTIN GESTION) - Status: contacted
+• victor.vaz@foncia.fr - Victor Vaz (FONCIA) - Status: contacted
+• vincent.bodin@edouarddenis-immobilier.com - Vincent Bodin (Groupe Edouard Denis) - Status: contacted
+• vincent.burgos@we-prom.com - Vincent Burgos (We. prom !) - Status: contacted
+• vincent.caremiaux@quardina.fr - Vincent Caremiaux (Quardina) - Status: contacted
+• vincent.ferri@socgen.com - Vincent Ferri (Société Générale Immobilier Patrimonial) - Status: contacted
+• vincent.gautier@cdc-habitat.fr - Vincent Gautier (CDC Habitat) - Status: contacted
+• vincent.lepelleux@qualiconsult.fr - Lepelleux Vincent (Groupe Qualiconsult) - Status: contacted
+• vincent.nauthon@foncia.com - Vincent Nauthon (FONCIA) - Status: contacted
+• vincent@cap-island.com - Vincent Turpin (Cap Island) - Status: contacted
+• vincentfazio@vendy.fr - Vincent Fazio (VENDY IMMOBILIER & PATRIMOINE) - Status: contacted
+• vitry@guyhoquet.com - Guy Vitry (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• vreimringer@aiguillon.com - Vincent Reimringer (Aiguillon construction) - Status: contacted
+• vsibille@franco-suisse.fr - Victor Sibille (FRANCO SUISSE) - Status: contacted
+• vvincent@vinci-immobilier.com - Vincent Vanheuverswyn (VINCI Immobilier) - Status: contacted
+• w.asseline@human-immobilier.fr - William Asseline-Sarcy (Bourse de l'Immobilier) - Status: contacted
+• w.franck@guyhoquet.com - William Franck (GUY HOQUET L'IMMOBILIER) - Status: contacted
+• wbombezin-joulin@sdis37.fr - Wilfried Bombezin-Joulin (Human Immobilier) - Status: contacted
+• whittaker@ladresse.com - Paul Whittaker (Stephane Plaza Immobilier Avignon) - Status: contacted
+• wilfrid.bouhier@ajp-immobilier.fr - Wilfrid Bouhier (AJP Immobilier France) - Status: contacted
+• wilfrid.chaperon@123webimmo.com - Wilfrid Chaperon (123webimmo.com) - Status: contacted
+• william.silva@la-boite-immo.fr - William Silva (AGENCE BEURDELEY) - Status: contacted
+• willy.xande@homefolies.com - Willy Xande (HOME FOLIES) - Status: contacted
+• wsenglet@ideal-groupe.com - William Senglet (IDEAL groupe) - Status: contacted
+• x.de-pasquale@bourse-immobilier.fr - Xavier Pasquale (Human Immobilier) - Status: contacted
+• x.de-pasquale@human-immobilier.fr - Xavier Pasquale (Human Immobilier) - Status: contacted
+• xavier.guibert@foncia.com - Xavier Guibert (FONCIA) - Status: contacted
+• xavier.lamotte@squarehabitat-ndf.fr - Xavier Lamotte (SQUARE HABITAT NORD DE FRANCE) - Status: contacted
+• xavier.neyrinck@pulp-immobilier.fr - Xavier Neyrinck (PULPIMO) - Status: contacted
+• xavier.pichenot@l-d.fr - Xavier Pichenot (Loiselet & Daigremont) - Status: contacted
+• xavier.robin@mail.adim.com - Xavier Robin (ADIM Lyon) - Status: contacted
+• xdubois@stephaneplazaimmobilier.com - Xavier Dubois (Stéphane Plaza Immobilier) - Status: contacted
+• y.borderie@bouygues-immobilier.com - Yann Borderie (Bouygues Immobilier) - Status: contacted
+• y.courbon@marignan.immo - Yves Courbon (Marignan) - Status: contacted
+• y.gobert@swixim.com - Yannick Gobert (Swixim International) - Status: contacted
+• y.jeunet@sogestim.fr - Yohan Jeunet (GROUPE SOGESTIM) - Status: contacted
+• yacine.amrouche@socotec.com - Yacine Amrouche (Groupe Qualiconsult) - Status: contacted
+• yann.caranta@la-boite-immo.fr - Yann Caranta (YANN CARANTA IMMOBILIER) - Status: contacted
+• yannick.mandaba@ladresse.com - Yannick Mandaba (L'ADRESSE immobilier) - Status: contacted
+• yaubertin@natiive.fr - Yan Aubertin (NATIIVE) - Status: contacted
+• ybouchard-latour@alfid.com - Yanick Bouchard-Latour (Alfid Services Immobiliers) - Status: contacted
+• ybounaas@altarea.com - Yassine Bounaas (ALTAREA) - Status: contacted
+• yelasri@pichet.fr - Youness Elasri (Groupe Pichet) - Status: contacted
+• yohan.sabrou@espaces-atypiques.com - Yohan Atypiques (Espaces Atypiques) - Status: contacted
+• zoran.pascual@la-boite-immo.fr - Zoran Pascual (Précieuse Immobilier) - Status: contacted

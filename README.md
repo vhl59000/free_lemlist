@@ -82,6 +82,10 @@ python script.py --send-test votre.email@gmail.com
 
 ## 🎯 Utilisation - Workflow complet
 
+### Phase 0: Récupérer la data
+
+Allez sur lemlist (free plan) et télécharger les databases qui vous intéressent en (.csv). Ensuite foutez la dans le folder approprié (ici AgentsImmo).
+
 ### Phase 1: Envoi initial
 
 ```bash
